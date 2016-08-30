@@ -1,279 +1,223 @@
-lost=Sieht so aus, als hättest Du Dich verlaufen...
-sorry=Tut uns sehr leid...
-lost2=Die Seite, nach der Du suchst, existiert nicht.
-sorry2=Der Administrator wurde informiert.
-gohome=ZURÜCK ZUR STARTSEITE
-
-desc=DIE Retrogaming-Konsole
-keywords=emulation, retrogaming, videogames, console, snes, nes, megadrive, genesis, playstation, master system, mame, scummmvm, gba, raspberry, retro,
-
-title1=Erlebe erneut
-title2=den Spaß am Spielen
-
-about1=Die neue Open Source Retrogaming-Konsole
-
-maccueil=Recalbox
-mdescription=Beschreibung
-minterface=Oberfläche
-msystems=Systeme
-mdetails=Eigenschaften
-mmedia=Medien
-mdiy=D.I.Y. recalbox
-
-therecalbox=Recalbox
-
-about2=Recalbox erlaubt es Dir, ein Vielzahl an Konsolen und Systemen bei Dir Zuhause erneut zu erleben; und das sehr einfach! RecalboxOS ist kostenlos, Open Source und so entwickelt, dass Du deine eigene recalbox in kürzester Zeit erstellen kannst! Und das auf einem
-retrogaming=Retro-Gaming Plattform
-retrogaming2=Recalbox bietet eine Vielzahl an Konsolen und Spielsystemen. Von den ersten Arcade Systemen über den NES, den MEGADRIVE, bis hin zu 32-bit Plattformen wie der Playstation.
-mediacenter=Da Kodi bereits implementiert ist, dient Recalbox auch als Medien Center. So kannst Du deine Videos von allen kompatiblen Geräten aus streamen (NAS, PC, Externe HDD, etc). Verbinde Dich einfach mit deinem Netzwerk und lege los.
-supportedsystems=Enthaltene Systeme
-sarcade=Die besten Arcade Spiele von "Dungeons & Dragons", oder "The King of Fighters", bis hin zu "X-Men"; alle in deinem Wohnzimmer!
-snes=Wer erinnert sich nicht an "Super Mario Bros", "Ninja Turtles", ode das erste Zelda ...
-ssnes="Super Mario World", "Street Fighter II Turbo", "Zelda: A Link To The Past", "Sim City", "Final Fantasy" und viele mehr! Sind die nicht auch ein Teil deiner Kindheitserinnerungen? :)
-spsx="Final Fantasy VII", "Crash Bandicoot", "Tomb Raider",... Müssen wir noch mehr sagen?
-sclassics=Geht noch weiter in der Zeit zurück, erlebt den ersten Geisterjäger "Pac-Man" und verteidigt die Welt vor den "Space Invaders"!
-sms="Stein", "Schere", "Papier"; "Alex Kidd" Bosse sollten lieber aufpassen!
-Megadrive=Genesis
-smegadrive=Gebt Vollgas mit "Sonic", findet Schätze in "LandStalkers", vernichtet Aliens in "Alien Soldier"!
-sgba=Gab es zu viele Spiele auf dem GBA, die Du nicht spielen konntest? Jetzt ist die Zeit dies nachzuholen.
-satari2600=Eine der ersten Heimvideo Konsolen!
-spce=Aka SuperGraphX. Eine 16-bit Plattform mit vielen großartigen Spielen!
-sgbc=...und ich Farbe!
-sgb=Erlebe das meistgespielte Handheld System, aller Zeiten!
-smsx=Für Spieler und Spieleentwickler: Recalbox emuliert MSX 1, 2 und 2+ Systeme
-ssg1000=Am selben Tag wie der NES veröffentlicht und seitdem leider vergessen...
-sn64="Mario 64", "Zelda 64", Alles 64...
-s32x=Ja, "Virtua Racing" sah so aus...
-ssegacd=Die erste Sega CD Konsole. Probiere "Snatcher".
-sscummvm=Point, Click, Spaß!
-
-#3.3.0 systems
-satari7800=Ich wäre gerne mit NES und MasterSystem verglichen worden!
-sprboom=Reist zurück nach Phobos und vernichtet die schlimmsten Kreaturen, aufgestiegen aus der Hölle!
-sfds=Das Family Computer Disk System. Nur in Japan veröffentlicht, wurde es gebaut, um mit dem Famicom verbunden zu werden und ludt Spiele von Diskette.
-sgaw=Die haben euch Morgens geweckt!
-sgamegear=Das tragbare MasterSystem, mit unendlich Batterie.
-slynx=Die einzige Handheld Konsole von Atari und die erste mit einem Farb-LCD Bildschirm!
-sneogeopocket=Die SNK Kampfspiele in SD und zum mitnehmen!
-ssupergrafx=Nur 5 Spiele wurden für die 16-bit Schwester der PCEngine veröffentlicht. Spiele sie!
-svectrex=Die erste 100%ige Vektoren Konsole!
-svirtualboy=Alles ist rot!
-swonderswan=Eine weitere Handheld Konsole, aber mit remastered "Final Fantasy" Spielen!
-sneogeo="The King of Fighters", "Garou", "Last Blade", "Fatal Fury"... Tausende Stunden Spielspaß!
-
+lost = Sieht so aus, als hättest Du Dich verlaufen...
+sorry = Tut uns sehr leid...
+lost2 = Die Seite, nach der Du suchst, existiert nicht.
+sorry2 = Der Administrator wurde informiert.
+gohome = ZURÜCK ZUR STARTSEITE
+desc = DIE Retrogaming-Konsole
+keywords = emulation, retrogaming, videogames, console, snes, nes, megadrive, genesis, playstation, master system, mame, scummvm, gba, raspberry, retro, rpi, ootb, konsole
+title1 = Erlebe erneut
+title2 = den Spaß am Spielen
+about1 = Die neue Open Source Retrogaming-Konsole
+maccueil = Recalbox
+mdescription = Beschreibung
+minterface = Oberfläche
+msystems = Systeme
+mdetails = Eigenschaften
+mmedia = Medien
+mdiy = D.I.Y. recalbox
+therecalbox = Recalbox
+about2 = Recalbox erlaubt es Dir, ein Vielzahl an Konsolen und Systemen bei Dir Zuhause erneut zu erleben; und das sehr einfach\! RecalboxOS ist kostenlos, Open Source und so entwickelt, dass Du deine eigene recalbox in kürzester Zeit erstellen kannst\! Und das auf einem
+retrogaming = Retro-Gaming Plattform
+retrogaming2 = Recalbox bietet eine Vielzahl an Konsolen und Spielsystemen. Von den ersten Arcade Systemen über den NES, den MEGADRIVE, bis hin zu 32-bit Plattformen wie der Playstation.
+mediacenter = Da Kodi bereits implementiert ist, dient Recalbox auch als Medien Center. So kannst Du deine Videos von allen kompatiblen Geräten aus streamen (NAS, PC, Externe HDD, etc). Verbinde Dich einfach mit deinem Netzwerk und lege los.
+supportedsystems = Enthaltene Systeme
+sarcade = Die besten Arcade Spiele von "Dungeons & Dragons", oder "The King of Fighters", bis hin zu "X-Men"; alle in deinem Wohnzimmer\!
+snes = Wer erinnert sich nicht an "Super Mario Bros", "Ninja Turtles", ode das erste Zelda ...
+ssnes = "Super Mario World", "Street Fighter II Turbo", "Zelda\: A Link To The Past", "Sim City", "Final Fantasy" und viele mehr\! Sind die nicht auch ein Teil deiner Kindheitserinnerungen? \:)
+spsx = "Final Fantasy VII", "Crash Bandicoot", "Tomb Raider",... Müssen wir noch mehr sagen?
+sclassics = Geht noch weiter in der Zeit zurück, erlebt den ersten Geisterjäger "Pac-Man" und verteidigt die Welt vor den "Space Invaders"\!
+sms = "Stein", "Schere", "Papier"; "Alex Kidd" Bosse sollten lieber aufpassen\!
+Megadrive = Genesis
+smegadrive = Gebt Vollgas mit "Sonic", findet Schätze in "LandStalkers", vernichtet Aliens in "Alien Soldier"\!
+sgba = Gab es zu viele Spiele auf dem GBA, die Du nicht spielen konntest? Jetzt ist die Zeit dies nachzuholen.
+satari2600 = Eine der ersten Heimvideo Konsolen\!
+spce = Aka SuperGraphX. Eine 16-bit Plattform mit vielen großartigen Spielen\!
+sgbc = ...und ich Farbe\!
+sgb = Erlebe das meistgespielte Handheld System, aller Zeiten\!
+smsx = Für Spieler und Spieleentwickler\: Recalbox emuliert MSX 1, 2 und 2+ Systeme
+ssg1000 = Am selben Tag wie der NES veröffentlicht und seit dem leider vergessen...
+sn64 = "Mario 64", "Zelda 64", Alles 64...
+s32x = Ja, "Virtua Racing" sah so aus...
+ssegacd = Die erste Sega CD Konsole. Probiere "Snatcher".
+sscummvm = Point, Click, Spaß\!
+# 3.3.0 systems
+satari7800 = Ich wäre gerne mit NES und MasterSystem verglichen worden\!
+sprboom = Reist zurück nach Phobos und vernichtet die schlimmsten Kreaturen, aufgestiegen aus der Hölle\!
+sfds = Das Family Computer Disk System. Nur in Japan veröffentlicht, wurde es gebaut, um mit dem Famicom verbunden zu werden und ludt Spiele von Diskette.
+sgaw = Die haben euch Morgens geweckt\!
+sgamegear = Das tragbare MasterSystem, mit unendlich Batterie.
+slynx = Die einzige Handheld Konsole von Atari und die erste mit einem Farb-LCD Bildschirm\!
+sneogeopocket = Die SNK Kampfspiele in SD und zum mitnehmen\!
+ssupergrafx = Nur 5 Spiele wurden für die 16-bit Schwester der PCEngine veröffentlicht. Spiele sie\!
+svectrex = Die erste 100%ige Vektoren Konsole\!
+svirtualboy = Alles ist rot\!
+swonderswan = Eine weitere Handheld Konsole, aber mit remastered "Final Fantasy" Spielen\!
+sneogeo = "The King of Fighters", "Garou", "Last Blade", "Fatal Fury"... Tausende Stunden Spielspaß\!
 # 4.0.0 systems
-sodyssey2=Angetrieben von einem 1,79 MHz Prozessor und 64 byte RAM. Klingt nach Spaß, oder?!
-szx81=Einer der frühesten Heimcomputer in England mit großartigen Spielen wie "3D Monster Maze", "Night Gunner" und "Black Crystal"
-szxspectrum=Hat noch immer eine große Hacker Community!
-samstradcpc=Auch "Schneider CPC" genannt, kommt dieses System mit 8-bit Grafiken und Stunden and Spielspaß. Für echte Fans!
-satarist=Der einzig wahre Konkurrent für Apple und IBM
-smoonlight=Streamed Spiele von eurem PC auf eure Recalbox!
-
-features=Eigenschaften
-onlineupdate=Online Updates
-onlineupdate2=Genieße die aktuellsten Emulatoren und die neuesten Optimierungen durch Updates mit nur einem Klick.
-4players=Du hast mehrere USB und Bluetooth Controller und Freunde? Spiele 4-Spieler Games!
-rewind=Zurückspulen
-rewind2=Kontroliere die Zeit und spule Zurück, wenn Dir ein fataler Fehler im Spiel passiert!
-screenshots=Erstellen Screenshots und teile deine Erfolge mit deinen Freunden!
-savestates=Speicher immer und überall und lade die Spielstände zu jeder Zeit!
-
-wirelesscontrolers=Wireless Controller
-wirelesscontrolers2=Recalbox unterstützt XBOX 360, PS3, 8Bitdo und Standard Bluetooth Controller. So kannst Du bequem von der Couch aus Spielen!
-
-numbers=Lass uns über Zahlen sprechen
-compatiblesgames=Kompatible Spiele
-players=Spieler
-
-os=RecalboxOS - Basierend auf Linux
-update=Updates
-
-recalboxes=Recalboxen
-choosemodel=Wähle dein Model!
-
-playble4=5 Spieler!
-VF=
-chronodesc=Wiederentdecke eines der besten RPGs jemals!
-littlepower=So klein und doch so mächtig!
-backintime=Lasst uns in der Zeit zurück gehen!
-hacks=Entdecke veränderte Spiele wie "Mario World Sequels"; Nie auf Konsole veröffentlicht!
-sagefrontier2=Playstation RPGs
-degommez=Schieße auf Alles!
-
-video_snes=Super Nintendo Entertainment System
-video_snes2=Schau Dir den SNES auf der recalbox in Aktion an!
-
-video_psx_title=Playstation und Sega 32x
-video_psx_desc=Playstation und Sega 32x in Aktion!
-
+sodyssey2 = Angetrieben von einem 1,79 MHz Prozessor und 64 byte RAM. Klingt nach Spaß, oder?\!
+szx81 = Einer der frühesten Heimcomputer in England mit großartigen Spielen wie "3D Monster Maze", "Night Gunner" und "Black Crystal"
+szxspectrum = Hat noch immer eine große Hacker Community\!
+samstradcpc = Auch "Schneider CPC" genannt, kommt dieses System mit 8-bit Grafiken und Stunden and Spielspaß. Für echte Fans\!
+satarist = Der einzig wahre Konkurrent für Apple und IBM
+smoonlight = Streamed Spiele von eurem PC auf eure Recalbox\!
+features = Eigenschaften
+onlineupdate = Online Updates
+onlineupdate2 = Genieße die aktuellsten Emulatoren und die neuesten Optimierungen durch Updates mit nur einem Klick.
+4players = Du hast mehrere USB und Bluetooth Controller und Freunde? Spiele 4-Spieler Games\!
+rewind = Zurückspulen
+rewind2 = Kontroliere die Zeit und spule Zurück, wenn Dir ein fataler Fehler im Spiel passiert\!
+screenshots = Erstellen Screenshots und teile deine Erfolge mit deinen Freunden\!
+savestates = Speicher immer und überall und lade die Spielstände zu jeder Zeit\!
+wirelesscontrolers = Wireless Controller
+wirelesscontrolers2 = Recalbox unterstützt XBOX 360, PS3, 8Bitdo und Standard Bluetooth Controller. So kannst Du bequem von der Couch aus Spielen\!
+numbers = Lass uns über Zahlen sprechen
+compatiblesgames = Kompatible Spiele
+players = Spieler
+os = RecalboxOS - Basierend auf Linux
+update = Updates
+recalboxes = Recalboxen
+choosemodel = Wähle dein Model\!
+playble4 = 5 Spieler\!
+VF = 
+chronodesc = Wiederentdecke eines der besten RPGs jemals\!
+littlepower = So klein und doch so mächtig\!
+backintime = Lasst uns in der Zeit zurück gehen\!
+hacks = Entdecke veränderte Spiele wie "Mario World Sequels"; Nie auf Konsole veröffentlicht\!
+sagefrontier2 = Playstation RPGs
+degommez = Schieße auf Alles\!
+video_snes = Super Nintendo Entertainment System
+video_snes2 = Schau Dir den SNES auf der recalbox in Aktion an\!
+video_psx_title = Playstation und Sega 32x
+video_psx_desc = Playstation und Sega 32x in Aktion\!
 # Open source
-opensourcetitle1=So viel Open Source Software...
-opensourcetitle2=...in einem OS.
-opensourcedesc1=Recalbox basiert auf dem GNU/Linux Operating System. Es enthält hunderte unterschiedlichste Typen an Open Source Software; von den kleinsten Tools, bis hin zum massiven EmulationStation Frontend.
-opensourcedesc2=Erlebe mehr als 40 Emulatoren von retroarch/libretro, das berühmte Kodi Media Center und eine angepasste Version von EmulationStation!
-
-#Hacks Homebrews
-hackstittle2=Entdecke Spiele, die nie offiziell erschienen sind.
-hackstittle1=Homebrews und Hacks
-
-homebrewsdesc=Homebrews sind Spiele, die in Gänze von unabhängigen Entwicklern erstellt worden sind. Viele dieser Spiele sind unerwartete Überraschungen und werden Dir eine tolle Zeit bescheren!
-hacksdesc=Hacks sind modifizierte Original-Spiele. Meist beinhalten sie Alle, oder auch nur Teile, der vorhandenen Grafiken und das Gameplay, unterscheiden sich aber in der Story, dem "Feel", oder der Atmosphäre. Einige werden sogar als komplett neue Original-Spiele bezeichnet. Z.B. "Super Mario Bros. 4" (Hack von Super Mario World), oder "The Legend Of Zelda - Parallels Worlds" (Hack von "A link to the past")
-
+opensourcetitle1 = So viel Open Source Software...
+opensourcetitle2 = ...in einem OS.
+opensourcedesc1 = Recalbox basiert auf dem GNU/Linux Operating System. Es enthält hunderte unterschiedlichste Typen an Open Source Software; von den kleinsten Tools, bis hin zum massiven EmulationStation Frontend.
+opensourcedesc2 = Erlebe mehr als 40 Emulatoren von retroarch/libretro, das berühmte Kodi Media Center und eine angepasste Version von EmulationStation\!
+# Hacks homebrews
+hackstittle2 = Entdecke Spiele, die nie offiziell erschienen sind.
+hackstittle1 = Homebrews und Hacks
+homebrewsdesc = Homebrews sind Spiele, die in Gänze von unabhängigen Entwicklern erstellt worden sind. Viele dieser Spiele sind unerwartete Überraschungen und werden Dir eine tolle Zeit bescheren\!
+hacksdesc = Hacks sind modifizierte Original-Spiele. Meist beinhalten sie Alle, oder auch nur Teile, der vorhandenen Grafiken und das Gameplay, unterscheiden sich aber in der Story, dem "Feel", oder der Atmosphäre. Einige werden sogar als komplett neue Original-Spiele bezeichnet. Z.B. "Super Mario Bros. 4" (Hack von Super Mario World), oder "The Legend Of Zelda - Parallels Worlds" (Hack von "A link to the past")
 # Media projects
-mgoularttitle=Arcade Kabinet
-mgoulartdesc=von Marcello Goulart
-
-recalstickdesc=Modded Arcade Joystick
-recalnesdesc=Modded NES
-
-metalslugcabtitle=Metal Slug Bartop
-metalslugcabdesc=Ein "Metal Slug" Bartop, das unter Recalbox läuft
-
-plus=Mehr
-
-#DIY
-diydonate1=Recalbox ist kostenloses Open Source Projekt
-diydonate2=also nehmt gerne daran Teil :)
-diytitle1=Erstelle deine eigene
-diytitle2=Recalbox
-
-diydesc1=Du bist hier, weil Du Dir deine eigene Multi-Emulations-Platform für deinen HDMI TV, oder sogar ein Arcade Kabinet mit eingebautem System erstellen willst?!
-
-diydesc2=Dann bist Du genau richtig!
-diydesc3=Folge der Anleitung und erstelle deine eigene recalbox in 3 einfachen Schritten.
-diystep2head=Installiere das System
-diystep1head=Besorge die Hardware
-diystep3head=Konfiguriere deine recalbox
-diystep2text=Installiere recalboxOS auf deinem System
-diystep1text=Besorge dir alle benötigten Komponenten
-diystep3text=Konfiguriere deinen USB/Bluetooth Controller und füge deinem System Spiele hinzu
-
-threesteps=3 Schritte
-
-step1title=SCHRITT 1. Besorge die Hardware.
-
-componentsneeded=Du wirst die folgenden Ding brauchen, um deine eigene recalbox zu erstellen:
-diyrpi2=Einen Raspberry Pi 3 (oder einen Raspberry Pi 1 B/B+, oder einen Raspberry Pi 2)
-diypower=Ein gutes Netzteil mit Micro USB Anschluss > 2.5 AMP
-diyhdmi=Ein HDMI Kabel
-diyps3control=Einen PS3 Sixaxis, einen Dualshock 3, eine Shanwan Kopie, oder einen einfachen USB Controller
-diysdcard=Eine microSD Karte >= 16GB
-diybtdongle=Einen qualitativ hochwertigen Bluetooth Dongle
-diyrpicase=Ein Raspberry Pi Gehäuse
-diyusbkeyboard=Ein USB Keyboard, wenn Du keinen OOTB Controller hast.
-
-
-diygotostep2=Sobald Du alles hast, kannt Du mit der Installation von recalboxOS beginnen.
-
-diyitstime=Es ist Zeit, recalboxOS herunterzuladen!
-step2title=SCHRITT 2. Installiere recalboxOS.
-
-diyinstall1=Gehe zu
-diyinstall2=, um die aktuellste Version von recalboxOS herunterzuladen. Du kannst recalboxOS auf einer FAT32-Formatierten SD Karte installieren. Benutze eine Formatiersoftware von
-diyinstall3=unter Windows und MacOSX, oder gparted unter Linux.
-diyinstall4=Entpacke nun die recalboxOS.zip Datei und kopiere alle Dateien auf deine SD Karte.
-diyinstall5=Steck die SD Karte in deinen RPi, schließe das HDMI Kabel, das Keyboard und dann das Stromkabel an. Dein RPi booted und der Installer macht den Rest.
-diyinstall6=Nun hast Du deine eigene Recalbox!
-
-step3title=SCHRITT 3. Konfiguriere deine recalbox.
-diysetup1=Konfiguriere nun deinen Controller für deine neue recalbox!
-diysetup2=Wenn Du einen PS3 Controller mit einem BT Dongle hast, verbinde den Controller via USB Kabel mit der recalbox und warte 10 Sekunden. Jetzt kannst Du den Controller abstecken und den HOME Button darauf drücken. Dein Controller ist bereit!
-diysetup22=Wenn Du einen XBOX360 USB Controller hast, verbinde ihn einfach und lege los!
-diysetup3=Wenn Du einen USB Controller hast, verbinde dein USB Keyboard, drücke ENTER im Frontend, wähle die Option <b>"Controller Einstellungen"</b> mit der S Taste, wähle dann<b>"Controller konfigurieren"</b> und drücke erneut S. Folge dann der angezeigten Anleitung und weise jedem Knopf die entprechende Funktion zu. Das Button Layout entspricht dem eines SNES Controllers.
-diysetup4=Siehe das
-diysetup5=für mehr Informationen!
-diysetup6=Mehr zu recalbox
-
-diyshare=Teile deine Eigenkreationen mit uns in unserem Forum:
-
-#faq
-faqTitle=Hier beantworten wir diemeistgestellten Fragen...
-faq1q=Wo ist die Dokumentation?
-faq1r1=Du findest die Dokumenation in unseren Github Wiki
-faq1r2=Die Deutsche Anleitung findest Du hier
-faq2q=Wie kann ich meinen Teil beitragen?
-faq2r1=Du kannst eine Spende abgeben
-faq2r2=Du kannst Fehler auf der recalboxOS GitHub Seite melden, wenn Du welche findest
-faq2r3=Du kannst teilnehmen am
-faq2r4=Du kannst am Wiki mitarbeiten
-faq2r5=recalbox.com Forum
-faq2r6=DIY recalbox
-faqLang=EN
-
-faq3q=Wie viele Spiele enthält recalbox?
-faq3r1=Wir versuchen ein Höchstmaß an freien Spielen zur Verfügung zu stellen, die direkt nach dem Installieren gespielt werden können!
-faq3r2=Besuche uns auf
-faq3r3=um eure Homebrews mit uns zu teilen!
-
-faq4q=Was ist die kompatible Hardware?
-faq4r1=Raspberry Pi 1 B oder B+, Raspberry Pi Zero, Raspberry Pi 2 und <b>Raspberry Pi 3</b>
-faq5q=Kann ich recalbox in einem Bartop oder einem Arcade Kabinet verwenden?
-faq5r1=RecalboxOS wurde programmiert, um die Integration in Bartops und Arcades zu erleichtern.<br/>\
-  Du kannst deine Controller direkt an das GPIO des RPi anschließen, um die Benutzung eines zusätzlichen USB Controller Boards zu vermeiden.<br/>\
-  Mehrere, nicht gewollte Einstellungen in den Menüs können für die Kabinet-Benutzung deaktiviert werden. Zusätzlich können verschiedene Video Outputs gewählt werden, wie HDMI/DVI/VGA (mit Adapter), oder RCA.\
-  Erhalte mehr Informationen dazu auf der <a href="https://github.com/digitalLumberjack/recalbox-os/wiki/Configure-recalbox-for-a-Bartop-or-Arcade-Cab-%28EN%29">Bartop Seite unseres Wikis</a>.
-faq6q=Recalbox enthält mehr als 40 Systeme! Warum sehe nur ein paar davon?
-faq6r1=Es werden nur Systeme in EmulationStation angezeigt, für die auch Spiele auf dem RPi vorhanden sind. Weiter Informationen dazu in der <a href="https://github.com/digitalLumberjack/recalbox-os/wiki/Manual-%28DE%29">Anleitung</a>. Vergiss nach dem Hinzufügen von Spielen nicht, die Spieleliste zu aktualisieren, oder den RPi neu zu starten.
-faq7q=Wenn ich einige Spiele starte erscheint nur ein schwarzer Bildschirm und nach kurzer Zeit erscheint EmulationStation wieder.
-faq7r1=Einige Spiele benötigen ein BIOS, um korrekt zu laufen. <a href="https://github.com/digitalLumberjack/recalbox-os/wiki/Add-system-bios-%28EN%29">Bios Wiki</a>.
-faq8q=Kann ich die Musik im Frontend ausschalten?
-faq8r1=Ja. Die Option findet sich unter "Soundeinstellungen -> Frontend Musik
-faq9q=Meine PS3 Controller funktionieren nicht wenn ich sie via USB anschließe.
-faq9r1=Das ist ein bereits bekanntes Problem, dass in Arbeit ist. Vorerst funktionieren PS3 Controller nur via BT Dongle.
-faq10q=Wo kann ich den Entwicklungsprozess des recalboxOS verfolgen?
-faq10r1=Auf der <a href="https://github.com/digitalLumberjack/recalbox-os">recalbox-os Github Seite</a> und bei den gemeldeten "<a href="https://github.com/digitalLumberjack/recalbox-os">Fehlern</a>". \
-  Beide Seiten repräsentieren den aktuellen Entwicklungstand.\
-   Wenn Du Dir die recalbox "<a href="https://github.com/digitalLumberjack/recalbox-os/milestones">Meilensteine</a>" anschaust, wirst Du alle geschlossenen, als auch alle im Moment in Bearbeitung befindlichen Themen finden.
-faq11q=Muss ich meinen Raspberry Pi übertakten?
-faq11r1=Wir empfehlen, den Raspberry Pi 1 und Zero mit der Option EXTREM zu übertakten. Dabei erlischt zwar eure Garantie, aber der Performance Boost wird euch überraschen!
-faq12q=Kann ich Dreamcast und PSP auf der recalbox Spielen?
-faq12r1=Wir arbeiten ständig daran, neue Systeme zu integrieren. Wir werden diese beiden aber leider erst mit Version 4.1 zur Verfügung stellen können.
-faq13q=Das interne BT meines RPi3 funktioniert nicht!?
-faq13r1=Wir arbeiten an dem Problem und sind zuversihtlich, dass wir bald eine Lösung dafür anbieten können.
-
-faqManual=Manual-%28DE%29
-
-findfacebook="Folge uns auf Facebook"
-findgplus="Folge uns auf Google +"
-findtwitter="Folge uns auf Twitter"
-findirc="IRC"
-findyoutube="Watch our videos on Youtube"
-findgithub="Finde uns auf Github"
-
-hoursofgames=Spielstunden
-
-homeinstall1=Recalbox ist kostenlos und Open Source!
-homeinstall2=Installiere das Betriebssystem gleich jetzt auf deinem Raspberry Pi!
-homeinstall3=Ich möchte es installieren!
-
-release1=Es ist endlich hier!
-release2=Recalbox 4.0.0 FINAL
-release3=Hole es Dir JETZT!
-
-
+mgoularttitle = Arcade Kabinet
+mgoulartdesc = von Marcello Goulart
+recalstickdesc = Modded Arcade Joystick
+recalnesdesc = Modded NES
+metalslugcabtitle = Metal Slug Bartop
+metalslugcabdesc = Ein "Metal Slug" Bartop, das unter Recalbox läuft
+plus = Mehr
+# DIY
+diydonate1 = Recalbox ist kostenloses Open Source Projekt
+diydonate2 = also nehmt gerne daran Teil \:)
+diytitle1 = Erstelle deine eigene
+diytitle2 = Recalbox
+diydesc1 = Du bist hier, weil Du Dir deine eigene Multi-Emulations-Platform für deinen HDMI TV, oder sogar ein Arcade Kabinet mit eingebautem System erstellen willst?\!
+diydesc2 = Dann bist Du genau richtig\!
+diydesc3 = Folge der Anleitung und erstelle deine eigene recalbox in 3 einfachen Schritten.
+diystep2head = Installiere das System
+diystep1head = Besorge die Hardware
+diystep3head = Konfiguriere deine recalbox
+diystep2text = Installiere recalboxOS auf deinem System
+diystep1text = Besorge dir alle benötigten Komponenten
+diystep3text = Konfiguriere deinen USB/Bluetooth Controller und füge deinem System Spiele hinzu
+threesteps = 3 Schritte
+step1title = SCHRITT 1. Besorge die Hardware.
+componentsneeded = Du wirst die folgenden Ding brauchen, um deine eigene recalbox zu erstellen\:
+diyrpi2 = Einen Raspberry Pi 3 (oder einen Raspberry Pi 1 B/B+, oder einen Raspberry Pi 2)
+diypower = Ein gutes Netzteil mit Micro USB Anschluss > 2.5 AMP
+diyhdmi = Ein HDMI Kabel
+diyps3control = Einen PS3 Sixaxis, einen Dualshock 3, eine Shanwan Kopie, oder einen einfachen USB Controller
+diysdcard = Eine microSD Karte >\= 16GB
+diybtdongle = Einen qualitativ hochwertigen Bluetooth Dongle
+diyrpicase = Ein Raspberry Pi Gehäuse
+diyusbkeyboard = Ein USB Keyboard, wenn Du keinen OOTB Controller hast.
+diygotostep2 = Sobald Du alles hast, kannt Du mit der Installation von recalboxOS beginnen.
+diyitstime = Es ist Zeit, recalboxOS herunterzuladen\!
+step2title = SCHRITT 2. Installiere recalboxOS.
+diyinstall1 = Gehe zu
+diyinstall2 = , um die aktuellste Version von recalboxOS herunterzuladen. Du kannst recalboxOS auf einer FAT32-Formatierten SD Karte installieren. Benutze eine Formatiersoftware von
+diyinstall3 = unter Windows und MacOSX, oder gparted unter Linux.
+diyinstall4 = Entpacke nun die recalboxOS.zip Datei und kopiere alle Dateien auf deine SD Karte.
+diyinstall5 = Steck die SD Karte in deinen RPi, schließe das HDMI Kabel, das Keyboard und dann das Stromkabel an. Dein RPi booted und der Installer macht den Rest.
+diyinstall6 = Nun hast Du deine eigene Recalbox\!
+step3title = SCHRITT 3. Konfiguriere deine recalbox.
+diysetup1 = Konfiguriere nun deinen Controller für deine neue recalbox\!
+diysetup2 = Wenn Du einen PS3 Controller mit einem BT Dongle hast, verbinde den Controller via USB Kabel mit der recalbox und warte 10 Sekunden. Jetzt kannst Du den Controller abstecken und den HOME Button darauf drücken. Dein Controller ist bereit\!
+diysetup22 = Wenn Du einen XBOX360 USB Controller hast, verbinde ihn einfach und lege los\!
+diysetup3 = Wenn Du einen USB Controller hast, verbinde dein USB Keyboard, drücke ENTER im Frontend, wähle die Option <b>"Controller Einstellungen"</b> mit der S Taste, wähle dann<b>"Controller konfigurieren"</b> und drücke erneut S. Folge dann der angezeigten Anleitung und weise jedem Knopf die entprechende Funktion zu. Das Button Layout entspricht dem eines SNES Controllers.
+diysetup4 = Siehe das
+diysetup5 = für mehr Informationen\!
+diysetup6 = Mehr zu recalbox
+diyshare = Teile deine Eigenkreationen mit uns in unserem Forum\:
+# faq
+faqTitle = Hier beantworten wir diemeistgestellten Fragen...
+faq1q = Wo ist die Dokumentation?
+faq1r1 = Du findest die Dokumenation in unseren Github Wiki
+faq1r2 = Die Deutsche Anleitung findest Du hier
+faq2q = Wie kann ich meinen Teil beitragen?
+faq2r1 = Du kannst eine Spende abgeben
+faq2r2 = Du kannst Fehler auf der recalboxOS GitHub Seite melden, wenn Du welche findest
+faq2r3 = Du kannst teilnehmen am
+faq2r4 = Du kannst am Wiki mitarbeiten
+faq2r5 = recalbox.com Forum
+faq2r6 = DIY recalbox
+faqLang = EN
+faq3q = Wie viele Spiele enthält recalbox?
+faq3r1 = Wir versuchen ein Höchstmaß an freien Spielen zur Verfügung zu stellen, die direkt nach dem Installieren gespielt werden können\!
+faq3r2 = Besuche uns auf
+faq3r3 = um eure Homebrews mit uns zu teilen\!
+faq4q = Was ist die kompatible Hardware?
+faq4r1 = Raspberry Pi 1 B oder B+, Raspberry Pi Zero, Raspberry Pi 2 und <b>Raspberry Pi 3</b>
+faq5q = Kann ich recalbox in einem Bartop oder einem Arcade Kabinet verwenden?
+faq5r1 = RecalboxOS wurde programmiert, um die Integration in Bartops und Arcades zu erleichtern.<br/>Du kannst deine Controller direkt an das GPIO des RPi anschließen, um die Benutzung eines zusätzlichen USB Controller Boards zu vermeiden.<br/>Mehrere, nicht gewollte Einstellungen in den Menüs können für die Kabinet-Benutzung deaktiviert werden. Zusätzlich können verschiedene Video Outputs gewählt werden, wie HDMI/DVI/VGA (mit Adapter), oder RCA.Erhalte mehr Informationen dazu auf der <a href\="https\://github.com/digitalLumberjack/recalbox-os/wiki/Configure-recalbox-for-a-Bartop-or-Arcade-Cab-%28EN%29">Bartop Seite unseres Wikis</a>.
+faq6q = Recalbox enthält mehr als 40 Systeme\! Warum sehe nur ein paar davon?
+faq6r1 = Es werden nur Systeme in EmulationStation angezeigt, für die auch Spiele auf dem RPi vorhanden sind. Weiter Informationen dazu in der <a href\="https\://github.com/digitalLumberjack/recalbox-os/wiki/Manual-%28DE%29">Anleitung</a>. Vergiss nach dem Hinzufügen von Spielen nicht, die Spieleliste zu aktualisieren, oder den RPi neu zu starten.
+faq7q = Wenn ich einige Spiele starte erscheint nur ein schwarzer Bildschirm und nach kurzer Zeit erscheint EmulationStation wieder.
+faq7r1 = Einige Spiele benötigen ein BIOS, um korrekt zu laufen. <a href\="https\://github.com/digitalLumberjack/recalbox-os/wiki/Add-system-bios-%28EN%29">Bios Wiki</a>.
+faq8q = Kann ich die Musik im Frontend ausschalten?
+faq8r1 = Ja. Die Option findet sich unter "Soundeinstellungen -> Frontend Musik
+faq9q = Meine PS3 Controller funktionieren nicht wenn ich sie via USB anschließe.
+faq9r1 = Das ist ein bereits bekanntes Problem, dass in Arbeit ist. Vorerst funktionieren PS3 Controller nur via BT Dongle.
+faq10q = Wo kann ich den Entwicklungsprozess des recalboxOS verfolgen?
+faq10r1 = Auf der <a href\="https\://github.com/digitalLumberjack/recalbox-os">recalbox-os Github Seite</a> und bei den gemeldeten "<a href\="https\://github.com/digitalLumberjack/recalbox-os">Fehlern</a>". Beide Seiten repräsentieren den aktuellen Entwicklungstand.Wenn Du Dir die recalbox "<a href\="https\://github.com/digitalLumberjack/recalbox-os/milestones">Meilensteine</a>" anschaust, wirst Du alle geschlossenen, als auch alle im Moment in Bearbeitung befindlichen Themen finden.
+faq11q = Muss ich meinen Raspberry Pi übertakten?
+faq11r1 = Wir empfehlen, den Raspberry Pi 1 und Zero mit der Option EXTREM zu übertakten. Dabei erlischt zwar eure Garantie, aber der Performance Boost wird euch überraschen\!
+faq12q = Kann ich Dreamcast und PSP auf der recalbox Spielen?
+faq12r1 = Wir arbeiten ständig daran, neue Systeme zu integrieren. Wir werden diese beiden aber leider erst mit Version 4.1 zur Verfügung stellen können.
+faq13q = Das interne BT meines RPi3 funktioniert nicht\!?
+faq13r1 = Wir arbeiten an dem Problem und sind zuversihtlich, dass wir bald eine Lösung dafür anbieten können.
+faqManual = Manual-%28DE%29
+findfacebook = "Folge uns auf Facebook"
+findgplus = "Folge uns auf Google +"
+findtwitter = "Folge uns auf Twitter"
+findirc = "IRC"
+findyoutube = "Watch our videos on Youtube"
+findgithub = "Finde uns auf Github"
+hoursofgames = Spielstunden
+homeinstall1 = Recalbox ist kostenlos und Open Source\!
+homeinstall2 = Installiere das Betriebssystem gleich jetzt auf deinem Raspberry Pi\!
+homeinstall3 = Ich möchte es installieren\!
+release1 = Es ist endlich hier\!
+release2 = Recalbox 4.0.0 FINAL
+release3 = Hole es Dir JETZT\!
 # Shop
-shop=Shop
-buy=Kaufen
-amazonpremium=Amazon Premium
-selectioned=Ausgewählte Produkte
-amazonservice=Amazon Kundenservice
-ourproducts=Recalbox Warenkorb
-welcomeshop=Willkommen in unserem
-descshop=Der Recalstore ist der einfachste Weg alle Teile zu bekommen die Du brauchst und um Sicherzustellen, dass alle Teile auch kompatibel sind!<br/>\
-            Alle Produkte werden durch Amazon verkauft und verschickt. Somit hast Du alle Garantien, die Amazon seinen Kunden bereitstellt, wenn Du deine Komponenten hier kaufst!
-
-allcats=Alle
-
-shopannounce1=Der RecalStore ist hier!
-shopannounce2=Hier findest Du Alles, um deine eigene Recalbox zu erstellen!
-shopannounce3=Besuche den Store
-
-shopono=Oh Nein!
-adblockenabled=Adblock ist aktiviert. Der Shop kann leider nicht angezeigt werden. Bitte deaktiviere AdBlock für www.recalbox.com lade die Seite erneut.
-disableadblock=Deaktiviere AdBlock
-shopissue=Etwas lief falsch! Bitte versuche die Seite neu zu laden.
-shopreload=Neu laden
-
-titleSite=
-titleShop=
-
+shop = Shop
+buy = Kaufen
+amazonpremium = Amazon Premium
+selectioned = Ausgewählte Produkte
+amazonservice = Amazon Kundenservice
+ourproducts = Recalbox Warenkorb
+welcomeshop = Willkommen in unserem
+descshop = Der Recalstore ist der einfachste Weg alle Teile zu bekommen die Du brauchst und um Sicherzustellen, dass alle Teile auch kompatibel sind\!<br/>Alle Produkte werden durch Amazon verkauft und verschickt. Somit hast Du alle Garantien, die Amazon seinen Kunden bereitstellt, wenn Du deine Komponenten hier kaufst\!
+allcats = Alle
+shopannounce1 = Der RecalStore ist hier\!
+shopannounce2 = Hier findest Du Alles, um deine eigene Recalbox zu erstellen\!
+shopannounce3 = Besuche den Store
+shopono = Oh Nein\!
+adblockenabled = Adblock ist aktiviert. Der Shop kann leider nicht angezeigt werden. Bitte deaktiviere AdBlock für www.recalbox.com lade die Seite erneut.
+disableadblock = Deaktiviere AdBlock
+shopissue = Etwas lief falsch\! Bitte versuche die Seite neu zu laden.
+shopreload = Neu laden
+titleSite = Recalbox - the micro retro gaming console
+titleShop = Recalstore - The recalbox store
