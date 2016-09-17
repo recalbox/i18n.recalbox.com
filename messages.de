@@ -78,9 +78,6 @@ update = Updates
 recalboxes = Recalboxen
 choosemodel = Wähle dein Model\!
 playble4 = 5 Spieler\!
-# I think this could be better, perhaps:
-# 
-# Kehre zurück zu einem der besten RPGs aller Zeiten!
 chronodesc = Kehre zurück zu einem der besten RPGs aller Zeiten\!
 littlepower = So klein und doch so mächtig\!
 backintime = Lasst uns in der Zeit zurück reisen\!
@@ -138,13 +135,6 @@ diygotostep2 = Sobald Du alles hast, kannt Du mit der Installation von recalboxO
 diyitstime = Es ist Zeit, recalboxOS herunterzuladen\!
 step2title = SCHRITT 2. Installiere recalboxOS.
 diyinstall1 = Gehe zu
-# There were inconsistencies with capitalization:
-# 
-# recalboxOS or RecalboxOS
-# recalbox or Recalbox
-# Recalstore or Recalstore
-# 
-# I always chose the latter
 diyinstall2 = , um die aktuellste Version von recalboxOS herunterzuladen. Du kannst recalboxOS auf einer FAT32-Formatierten SD Karte installieren. Benutze eine Formatiersoftware von
 diyinstall3 = unter Windows und MacOSX, oder gparted unter Linux.
 diyinstall4 = Entpacke nun die recalboxOS.zip Datei und kopiere alle Dateien auf deine SD Karte.
@@ -224,11 +214,9 @@ shopannounce1 = Der recalstore ist hier\!
 shopannounce2 = Hier findest Du Alles, um deine eigene recalbox zu erstellen\!
 shopannounce3 = Besuche den Store
 shopono = Oh Nein\!
-# Adblock or AdBlock?
 adblockenabled = Ein Werbeblocker ist aktiviert. Der Shop kann leider nicht angezeigt werden. Bitte deaktiviere den Werbeblocker für www.recalbox.com und lade die Seite im Anschluss erneut.
 disableadblock = Deaktiviere AdBlock
 shopissue = Etwas lief falsch\! Bitte versuche die Seite neu zu laden.
 shopreload = Neu laden
 titleSite = Recalbox - Die Retrospiele-Konsole im Miniformat
-# does this one count as start of sentence?
 titleShop = Recalstore - Der recalbox store
