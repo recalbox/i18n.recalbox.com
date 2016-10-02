@@ -178,7 +178,7 @@ faq8q = Kann ich die Musik im Frontend ausschalten?
 faq8r1 = Ja. Die Option findet sich unter "Soundeinstellungen -> Frontend Musik
 faq9q = Meine PS3 Controller funktionieren nicht wenn ich sie via USB anschließe.
 faq9r1 = Das ist ein bereits bekanntes Problem, dass in Arbeit ist. Vorerst funktionieren PS3 Controller nur via BT Dongle.
-faq10q = Wo kann ich den Entwicklungsprozess des fecalboxOS verfolgen?
+faq10q = Wo kann ich den Entwicklungsprozess des recalboxOS verfolgen?
 faq10r1 = Auf der <a href\="https\://github.com/digitalLumberjack/recalbox-os">recalbox-os Github Seite</a> und bei den gemeldeten "<a href\="https\://github.com/digitalLumberjack/recalbox-os">Fehlern</a>". Beide Seiten repräsentieren den aktuellen Entwicklungstand.Wenn Du Dir die recalbox "<a href\="https\://github.com/digitalLumberjack/recalbox-os/milestones">Meilensteine</a>" anschaust, wirst Du alle geschlossenen, als auch alle im Moment in Bearbeitung befindlichen Themen finden.
 faq11q = Muss ich meinen Raspberry Pi übertakten?
 faq11r1 = Wir empfehlen, den Raspberry Pi 1 und Zero mit der Option EXTREM zu übertakten. Dabei erlischt zwar eure Garantie, aber der Performance Boost wird euch überraschen\!
