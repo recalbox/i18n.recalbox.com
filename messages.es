@@ -223,3 +223,9 @@ shopissue = Algo ha ido mal\! Por favor recarga la página.
 shopreload = Recargar
 titleSite = Recalbox - la micro consola de juegos retro
 titleShop = Recalstore - La tienda recalbox
+# Blog Post workflow
+blog-2017-02-06-workflow-title = 
+blog-2017-02-06-workflow-author = 
+blog-2017-02-06-workflow-date = 
+blog-2017-02-06-workflow-image = 
+blog-2017-02-06-workflow-content = 
