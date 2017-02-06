@@ -221,8 +221,8 @@ shopreload = Neu laden
 titleSite = Recalbox - Die Retrospiele-Konsole im Miniformat
 titleShop = Recalstore - Der recalbox store
 # Blog Post workflow
-blog-2017-02-06-workflow-title = 
-blog-2017-02-06-workflow-author = 
-blog-2017-02-06-workflow-date = 
-blog-2017-02-06-workflow-image = 
-blog-2017-02-06-workflow-content = 
+blog-2017-02-06-workflow-title = Want some news about the project ?
+blog-2017-02-06-workflow-author = <a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack</a>
+blog-2017-02-06-workflow-date = Feb 06 2017
+blog-2017-02-06-workflow-image = images/blog/2017-02-06-workflow/mainimage.png
+blog-2017-02-06-workflow-content = <div>It’s been a while since our last update on the progress of the project. Be sure we don't forget you \:)<br/>The team has been working for weeks on something not really sexy and time consuming, but essential for the future of the project\: we reviewed our whole <b>development process</b>.<br/> <br/>This is not very exciting, but here is what you can expect from now\:<ul class\="list list--sign"><li>the updates will be more frequent</li><li>the updates will be lighter (i.e. less new features at once)</li><li>we will be more reactive to issues and will fix bugs quickly</li><li>we will only have two version\: unstable and stable</li></ul>You won’t have to wait for months to get a new version with new features, the <b>gap between development and releases</b> will be <b>much smaller</b>.<br/>To prepare your recalbox to this new process, a <b>4.0.1 version</b> will be released in <b>some days</b>. Please update when your recalbox warns you about a new version \:D<br/><br/>And right after that, we will activate the <b>unstable update</b> of your recalbox so you can update to <b>recalbox 4.1.0</b>. It comes with rpi3 bluetooth support, new systems, and many other exciting features\!<br/>We are counting on you to report issues on our issue board or on the forum \:)<br/><br/>Once again, we sincerely wish to <b>thank you</b> for all the enthusiasm and loyalty you show towards our project.<br/><br/>See you soon \!<img src\="/assets/images/blog/2017-02-06-workflow/chunli.gif"/><br/><br/><p>Hum and yeah, we have a blog back \:)</p></div>
