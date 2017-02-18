@@ -232,7 +232,7 @@ blog-2017-02-06-workflow-content = <div>It’s been a while since our last updat
 blog-2017-02-11-4.0.1-title = Recalbox 4.0.1 released\!
 blog-2017-02-11-4.0.1-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div>
 blog-2017-02-11-4.0.1-date = Feb 18 2017
-blog-2017-02-11-4.0.1-image = images/blog/2017-02-18-4.0.1/4.0.1_release-visual.jpg
+blog-2017-02-11-4.0.1-image = images/blog/2017-02-11-4.0.1/4.0.1_release-visual.jpg
 blog-2017-02-11-4.0.1-content = <div>\nWe are proud to annouce the release of recalboxOS <b>4.0.1</b>\!<br/><br/>\nThis new version brings the support of <b>Raspberry Pi 2 v1.2</b> and prepare your recalbox for the new 4.1.0 unstable release coming <b>really</b> soon\!\n<br/> <br/>Update your recalbox as soon as possible, and we promise to be back in no time for the next news \:)\n</div>
 blog-2017-02-19-rb4.1-title = We are proud to announce the release of recalbox v4.1.0 unstable \!
 blog-2017-02-19-rb4.1-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div>
