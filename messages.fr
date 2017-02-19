@@ -231,7 +231,7 @@ blog-2017-02-11-4.0.1-author = <div><a class\="tags__link" href\="https\://twitt
 blog-2017-02-11-4.0.1-date = 18 Fev 2017
 blog-2017-02-11-4.0.1-image = images/blog/2017-02-11-4.0.1/4.0.1_release-visual.jpg
 blog-2017-02-11-4.0.1-content = <div>Nous sommes fiers de vous annoncer la sortie de recalboxOS <b>4.0.1</b>\!<br/><br/>\nCette nouvelle version apporte le support du <b>Raspberry Pi 2 v1.2</b> et prépare vôtre Recalbox pour la mise à jour vers recalbox 4.1.0 dont la version unstable arrive <b>très</b> bientôt \!\n<br/> <br/>Mettez à jour vôtre recalbox des que possible, et restez à l'écoute car nous revenons très vite pour une autre news \! \:)\n</div> 
-blog-2017-02-19-rb4.1-title = Nous sommes fier
+blog-2017-02-19-rb4.1-title = Nous sommes fier de vous annoncer la sortie de recalbox v4.1.0 unstable \! 
 blog-2017-02-19-rb4.1-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div>
 blog-2017-02-19-rb4.1-date = 19 Fev 2017
 blog-2017-02-19-rb4.1-image = images/blog/2017-02-19/title.jpg
