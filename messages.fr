@@ -1,4 +1,4 @@
-lost = Êtes-vous perdu&thinsp;?
+lost = Êtes-vous perdu ?
 sorry = Désolé pour ce petit malentendu...
 lost2 = La page que vous recherchez n'existe plus.
 sorry2 = L'administrateur a été prévenu.
@@ -7,7 +7,7 @@ desc = La microconsole de retrogaming
 keywords = emulation, retrogaming, video game, console, snes, nes megadrive, genesis, playstation, master system, mame, scummvm, gba, jeux videos
 title1 = Redécouvrez
 title2 = le plaisir de jouer
-about1 = Avec la derniere console de retrogaming open source&thinsp;\!
+about1 = Avec la derniere console de retrogaming open source \!
 maccueil = La Recalbox
 mdescription = Description
 minterface = L'interface
@@ -16,85 +16,85 @@ mdetails = Détails
 mmedia = Média
 mdiy = Créer sa recalbox
 therecalbox = La recalbox
-about2 = La Recalbox vous permet de rejouer à une variété de consoles et de plateformes dans votre salon, en toute simplicité&thinsp;\! Le système recalboxOS est entièrement libre et gratuit, et à été conçu spécialement pour que vous puissiez créer la votre en un rien temps.
+about2 = La Recalbox vous permet de rejouer à une variété de consoles et de plateformes dans votre salon, en toute simplicité \! Le système recalboxOS est entièrement libre et gratuit, et à été conçu spécialement pour que vous puissiez créer la votre en un rien temps.
 retrogaming = Console de retrogaming
 retrogaming2 = La recalbox vous propose une large sélection de consoles et de systèmes, depuis les premières bornes d'arcade, jusqu'aux plateformes comme la Playstation, en passant par la Nes et la Megadrive.
 mediacenter = Propulsée par Kodi, la Recalbox fait aussi office de Media Center. En la connectant au réseau domestique, vous pourrez lire les vidéos depuis tout appareil compatible (box internet, ordinateur).
 supportedsystems = Les systèmes supportés
-sarcade = Les plus grands jeux d'arcade, depuis les Dungeons and Dragons, jusqu'aux King of Fighter, en passant par les X-Men, directement dans votre salon&thinsp;\!
+sarcade = Les plus grands jeux d'arcade, depuis les Dungeons and Dragons, jusqu'aux King of Fighter, en passant par les X-Men, directement dans votre salon \!
 snes = Qui ne se souvient pas de Super Mario Bros, de Tortues Ninja, ou des premiers Zelda...
 ssnes = Les Super Mario World, Street Fighter II Turbo, Zelda A Link To The Past, Sim City, et les Final Fantasy ne sont-ils pas les meilleurs souvenirs de notre enfance \:)
-spsx = Si je vous dis Final Fantasy, Crash Bandicoot, Tomb Raider... ai-je besoin d'ajouter quelque chose&thinsp;?
-sclassics = Retournons encore plus loin dans le temps, et retrouvons notre petit mangeur de fantôme préféré, Pac-Man, et défendons la terre contre les Space Invaders&thinsp;\!
-sms = Pierre, Ciseaux, Feuille, les boss d''Alex Kidd n'ont qu'à bien se tenir&thinsp;\!
+spsx = Si je vous dis Final Fantasy, Crash Bandicoot, Tomb Raider... ai-je besoin d'ajouter quelque chose ?
+sclassics = Retournons encore plus loin dans le temps, et retrouvons notre petit mangeur de fantôme préféré, Pac-Man, et défendons la terre contre les Space Invaders \!
+sms = Pierre, Ciseaux, Feuille, les boss d''Alex Kidd n'ont qu'à bien se tenir \!
 Megadrive = Megadrive
-smegadrive = Passez la seconde avec Sonic, retrouvez les trésors dans LandStalkers, detruisez les aliens dans Alien Soldier&thinsp;\!
+smegadrive = Passez la seconde avec Sonic, retrouvez les trésors dans LandStalkers, detruisez les aliens dans Alien Soldier \!
 sgba = Trop de jeux que vous n'avez pas eu l'occasion de jouer sur la GBA. C'est le moment de s'y mettre.
 satari2600 = Une des premières consoles de salon.
-spce = Jamais sortie en France, découvrez une grande collection de nouveaux jeux&thinsp;\!
+spce = Jamais sortie en France, découvrez une grande collection de nouveaux jeux \!
 sgbc = ...et en couleur\!
 sgb = Rejouez aux jeux de la console portable la plus vendue au monde...
 smsx = Pour les développeurs et les joueurs, la recalbox supporte l'émulation des systèmes MSX 1, 2 et 2+
 ssg1000 = Sortie le même jour que la nes, trop vite oubliée...
 # Dont forget typography! Don't let space between a word and punctuation.
-sn64 = Mario 64, Zelda64, tout en 64&thinsp;\!
+sn64 = Mario 64, Zelda64, tout en 64 \!
 s32x = Oui c'est bien à cela que ressemblait Virtua Racer...
 # Fuzzy
 ssegacd = La première console CD Sega. Essayez donc Snatcher.
-sscummvm = Point, Click, Enjoy&thinsp;\!
+sscummvm = Point, Click, Enjoy \!
 # 3.3.0 systems
 satari7800 = J'ai voulu concurencer la NES et la MasterSystem. En vain.
-sprboom = Retrouvez les jeux Doom et leurs mods&thinsp;\! De retour sur Phobos, affrontez les pires créatures&thinsp;\!
+sprboom = Retrouvez les jeux Doom et leurs mods \! De retour sur Phobos, affrontez les pires créatures \!
 sfds = La Family Computer Disk System, sortie au japon, se placait sous la Famicom et permettait la lecture des disquettes.
-sgaw = Ils servaient aussi de réveil matin&thinsp;\!
-sgamegear = La MasterSytem portable, mais avec des piles infinies&thinsp;\!
+sgaw = Ils servaient aussi de réveil matin \!
+sgamegear = La MasterSytem portable, mais avec des piles infinies \!
 slynx = La seule console portable d'Atari, et la première console portable avec un LCD couleur\!
 sneogeopocket = Retrouvez vos jeux de baston SNK préférés, en SD\!
-ssupergrafx = 5 jeux sont sortis sur la petite sœur 16bits de la PCEngine. Découvrez-les&thinsp;\!
-svectrex = La première console 100% vectorielle&thinsp;\!
-svirtualboy = Attention les yeux, ça pique&thinsp;\!
+ssupergrafx = 5 jeux sont sortis sur la petite sœur 16bits de la PCEngine. Découvrez-les \!
+svectrex = La première console 100% vectorielle \!
+svirtualboy = Attention les yeux, ça pique \!
 swonderswan = Encore une portable. Les premiers FF remasterisé, ca le fait.
-sneogeo = King of Fighters, Garou, Last Blade, Fatal Fury. Des centaines d'heures de castagne&thinsp;\!
+sneogeo = King of Fighters, Garou, Last Blade, Fatal Fury. Des centaines d'heures de castagne \!
 # 4.0.0 systems
-sodyssey2 = Propulsé par un processeur à 1,79 MHz et 64 octets de RAM. Ça promet, non&thinsp;?\!
+sodyssey2 = Propulsé par un processeur à 1,79 MHz et 64 octets de RAM. Ça promet, non ?\!
 szx81 = Un des premiers ordinateurs personels, avec des jeux superbes comme "3D Monster Maze", "Night Gunner" et "Black Crystal".
-szxspectrum = Toujours une énorme communauté de hackers&thinsp;\!
-samstradcpc = Pour les vrais fans&thinsp;\!
+szxspectrum = Toujours une énorme communauté de hackers \!
+samstradcpc = Pour les vrais fans \!
 satarist = Le seul vrai compétiteur d'Apple et IBM.
-smoonlight = Streamez les jeux depuis votre PC, sur recalbox&thinsp;\!
+smoonlight = Streamez les jeux depuis votre PC, sur recalbox \!
 features = Les fonctionnalités
 onlineupdate = Mise à jour en ligne
 onlineupdate2 = Profitez des derniers émulateurs, des dernières optimisations en mettant votre recalbox à jour d'un simple clic.
-4players = Vous avez plusieurs manettes USB, Bluetooth, PS3, XBOX 360, Wiimotes&thinsp;? Vous avez des amis&thinsp;? Jouez à 5&thinsp;\!
+4players = Vous avez plusieurs manettes USB, Bluetooth, PS3, XBOX 360, Wiimotes ? Vous avez des amis ? Jouez à 5 \!
 rewind = Rembobinage
-rewind2 = Contrôlez le temps et rembobinez le jeu en cas d’erreur mortelle&thinsp;\!
-screenshots = Prenez des captures d'écran de vos parties et partagez les&thinsp;\!
-savestates = Sauvegardez n’importe où dans le jeu, et rechargez vos parties aussi rapidement&thinsp;\!
+rewind2 = Contrôlez le temps et rembobinez le jeu en cas d’erreur mortelle \!
+screenshots = Prenez des captures d'écran de vos parties et partagez les \!
+savestates = Sauvegardez n’importe où dans le jeu, et rechargez vos parties aussi rapidement \!
 wirelesscontrolers = Manettes sans fils
-wirelesscontrolers2 = La recalbox supporte les manettes XBOX 360, PS3, 8Bitdo et bluetooth standard, pour jouer tranquillement depuis son canapé&thinsp;\!
+wirelesscontrolers2 = La recalbox supporte les manettes XBOX 360, PS3, 8Bitdo et bluetooth standard, pour jouer tranquillement depuis son canapé \!
 numbers = La recalbox en chiffres
 compatiblesgames = Jeux compatibles
 players = Joueurs
 os = Recalbox OS - Basé sur Linux
 update = Mise à jour
 recalboxes = Les Recalboxes
-choosemodel = Choisissez votre modèle&thinsp;\!
-playble4 = Jouable à 5&thinsp;\!
-chronodesc = Retrouvez un des meilleurs RPG, en VF&thinsp;\!
-littlepower = Si petite et si puissante&thinsp;\!
-backintime = On remonte dans le temps&thinsp;\!
-hacks = Découvrez des jeux jamais sortis sur console&thinsp;\!
+choosemodel = Choisissez votre modèle \!
+playble4 = Jouable à 5 \!
+chronodesc = Retrouvez un des meilleurs RPG, en VF \!
+littlepower = Si petite et si puissante \!
+backintime = On remonte dans le temps \!
+hacks = Découvrez des jeux jamais sortis sur console \!
 sagefrontier2 = Les RPGs de Playstation
-degommez = Tirez sur tout ce qui bouge&thinsp;\!
+degommez = Tirez sur tout ce qui bouge \!
 video_snes = Super Nintendo
-video_snes2 = Aperçu du sytème Super Nintendo sur la recalbox&thinsp;\!
+video_snes2 = Aperçu du sytème Super Nintendo sur la recalbox \!
 video_psx_title = Playstation et Sega 32x
-video_psx_desc = En temps réel - Playsation et Sega 32x&thinsp;\!
+video_psx_desc = En temps réel - Playsation et Sega 32x \!
 # Open source
 opensourcetitle1 = Des dizaines de logiciels open-source...
 opensourcetitle2 = ...réunis au sein d'un meme OS.
 opensourcedesc1 = RecalboxOS est basé sur le système GNU/Linux. Il intègre des centaines de logiciels open-sources, du plus petit utilitaire, jusqu' à ses émulateurs et son frontend EmulationStation.
-opensourcedesc2 = Retrouvez les dizaines d'émulateurs de retroarch/libretro, le fameux Media Player Kodi, et le frontend EmulationStation customisé&thinsp;\!
+opensourcedesc2 = Retrouvez les dizaines d'émulateurs de retroarch/libretro, le fameux Media Player Kodi, et le frontend EmulationStation customisé \!
 # Hacks homebrews
 hackstittle2 = Découvrez des jeux jamais sortis sur console
 hackstittle1 = Avec les homebrews et les hacks
@@ -114,7 +114,7 @@ diydonate2 = sentez-vous à l'aise de participer \:)
 diytitle1 = Créez votre propre
 diytitle2 = recalbox
 diydesc1 = Si vous êtes ici, vous avez déjà l'idée de faire votre propre console de jeux rétro pour jouer sur votre TV Hdmi, ou même de créer votre propre borne d'arcade\!
-diydesc2 = Alors vous êtes sur la bonne page&thinsp;\!
+diydesc2 = Alors vous êtes sur la bonne page \!
 diydesc3 = Suivez ce guide et créez votre recalbox en 3 étapes facile.
 diystep2head = Installation du système
 diystep1head = Le matériel
@@ -141,11 +141,11 @@ diyinstall2 = pour télécharger la dernière version de recalboxOS. Vous pouvez
 diyinstall3 = pour Windows et MacOSX, ou gparted sous Linux.
 diyinstall4 = Décompressez le fichier recalboxOS.zip et copiez tous les fichiers à la base de votre carte SD.
 diyinstall5 = Inserez la micro SD dans le raspberry, branchez le HDMI, le clavier et l''alimentation. Votre raspberry charge le programme d''installation et lance automatiquement la copie des fichiers.
-diyinstall6 = Vous possédez maintenant une recalbox&thinsp;\!
+diyinstall6 = Vous possédez maintenant une recalbox \!
 step3title = ÉTAPE 3. Configuration de la recalbox.
-diysetup1 = Vous avez sans doute envie de configurer votre manette pour commencer l''aventure recalbox&thinsp;\!
-diysetup2 = Si vous avez une manette PS3 et une clé bluetooth, utilisez un cable mini USB pour relier la manette à la recalbox. Patientez 10 secondes pendant que les led clignote lentement. Débranchez la manette et appuyez sur le bouton HOME. Votre manette est configurée&thinsp;\!
-diysetup22 = Si vous avez une manette XBox360 USB, branchez la, et jouez&thinsp;\!
+diysetup1 = Vous avez sans doute envie de configurer votre manette pour commencer l''aventure recalbox \!
+diysetup2 = Si vous avez une manette PS3 et une clé bluetooth, utilisez un cable mini USB pour relier la manette à la recalbox. Patientez 10 secondes pendant que les led clignote lentement. Débranchez la manette et appuyez sur le bouton HOME. Votre manette est configurée \!
+diysetup22 = Si vous avez une manette XBox360 USB, branchez la, et jouez \!
 diysetup3 = Si vous avez une manette USB, branchez votre clavier USB, appuyez sur ENTRER dans le menu de séléction des système. Ensuite séléctionnez <b>"Configure Input"</b> avec la touche S et sélectionnez <b>"Configure a controller"</b> encore avec S. Suivez les instructions pour configurer votre manette. Le nom des bouton est basé sur la manette Super Nintendo.
 diysetup4 = Rendez-vous sur le
 diysetup5 = pour plus d''infos.
@@ -153,10 +153,10 @@ diysetup6 = Plus d''infos sur le
 diyshare = Partagez avec nous vos réalisations et vos commentaires \:
 # faq
 faqTitle = Essayons de répondre aux questions les plus fréquemment posées.
-faq1q = Où se trouve la documentation&thinsp;?
+faq1q = Où se trouve la documentation ?
 faq1r1 = Vous trouverez la documentation sur le wiki github
 faq1r2 = La notice d''utilisation en Français se trouve à l''adresse
-faq2q = Comment puis-je participer&thinsp;?
+faq2q = Comment puis-je participer ?
 faq2r1 = Vous pouvez faire un don
 faq2r2 = Vous pouvez remonter des bugs ou des idées d''amélioration sur le github de recalbox-os
 faq2r3 = Vous pouvez participer sur les
@@ -164,29 +164,29 @@ faq2r4 = Vous pouvez continuer la traduction du wiki en vous basant sur la versi
 faq2r5 = forums recalbox.com
 faq2r6 = Créer sa recalbox
 faqLang = FR
-faq3q = La recalbox contient combien de jeux&thinsp;?
-faq3r1 = Nous essayons d''ajouter un maximum de jeux libres dans la distribution, pour que vous puissiez profiter de l''expérience recalbox dès le premier lancement&thinsp;\!
+faq3q = La recalbox contient combien de jeux ?
+faq3r1 = Nous essayons d''ajouter un maximum de jeux libres dans la distribution, pour que vous puissiez profiter de l''expérience recalbox dès le premier lancement \!
 faq3r2 = Rendez-vous sur
-faq3r3 = pour proposer vos homebrews&thinsp;\!
-faq4q = Sur quoi puis-je installer recalboxOS&thinsp;?
+faq3r3 = pour proposer vos homebrews \!
+faq4q = Sur quoi puis-je installer recalboxOS ?
 faq4r1 = Sur le Raspberry Pi 1 version B ou B+, sur le Raspberry Pi Zero, sur le Raspberry Pi 2 et sur le <b>Raspberry Pi 3</b>
-faq5q = Puis-je utiliser recalbox dans une borne / bartop&thinsp;?
+faq5q = Puis-je utiliser recalbox dans une borne / bartop ?
 faq5r1 = Le système recalboxOS a été aussi pensé pour l''intégration dans les bornes et bartops. <br /> Vous pouvez brancher les boutons et joysticks directement sur les GPIO du raspberry. <br />Vous pouvez désactiver les menus pour eviter toute mauvaise manipulation. Il est aussi possible d''utiliser les sorties HDMI / DVI /VGA (avec adaptateur) ou RCA.<br/>Plus d''infos sur <a href\="https\://github.com/digitalLumberjack/recalbox-os/wiki/Configure-recalbox-for-a-Bartop-or-Arcade-Cab-%28EN%29">la page dédiée du wiki</a>
 faq6q = La recalbox supporte une trentaine de consoles mais je n''en vois que quelques unes dans l''interface, que faire?
 faq6r1 = Seuls les systèmes ayant des jeux disponibles s''affichent. Essayez d''ajouter vos roms (voir la <a href\="https\://github.com/digitalLumberjack/recalbox-os/wiki/Notice-%28FR%29">Notice</a>) via le réseau et redémarrez la recalbox pour voir apparaître les nouveaux systèmes.
-faq7q = Pourquoi sur certains systèmes comme la GBA, mes jeux affichent un écran noir puis un retour sous ES&thinsp;?
+faq7q = Pourquoi sur certains systèmes comme la GBA, mes jeux affichent un écran noir puis un retour sous ES ?
 faq7r1 = Certains systèmes nécessitent des bios pour fonctionner. Plus d'infos sur <a href\="https\://github.com/digitalLumberjack/recalbox-os/wiki/Ajoutez-des-bios-%28FR%29">la page dédiée du wiki.</a>
 faq8q = Est-il possible de désactiver les musiques des systèmes?
 faq8r1 = L''option est disponible dans le menu Options sons de la recalbox \: passez juste "MUSIQUE DE FOND" sur OFF
-faq9q = Mes manettes PS3 ne sont pas reconnues en USB, est-ce normal&thinsp;?
+faq9q = Mes manettes PS3 ne sont pas reconnues en USB, est-ce normal ?
 faq9r1 = C''est un problème connu, nous essayons d''ajouter le support USB pour les manettes PS3, mais pour l''instant, vous ne pourrez en profiter qu''en bluetooth.
 faq10q = Où puis-je voir l''avancée du développement de la recalbox?
 faq10r1 = Sur le <a href\="https\://github.com/digitalLumberjack/recalbox-os">github de recalbox-os</a>, vous pouvez accéder aux "<a href\="https\://github.com/digitalLumberjack/recalbox-os">issues</a>" qui sont les tâches en cours.Si vous accédez aux "<a href\="https\://github.com/digitalLumberjack/recalbox-os/milestones">milestones</a>" vous pourrez voir les tâches qui sont encore à développer, et celles qui sont terminées (closed).
 faq11q = Dois-je overclocker mon Raspberry Pi?
 faq11r1 = Sur Raspberry Pi 1 (y compris zero) il est vivement conseillé d'overclocker le Raspberry en mode EXTREM. Vous perdez la garantie mais le gain de performance est phénoménale).
-faq12q = Recalbox permet-il de faire tourner la Dreamcast et la PSP&thinsp;?
+faq12q = Recalbox permet-il de faire tourner la Dreamcast et la PSP ?
 faq12r1 = Ces deux consoles arriveront dans la version 4.1 de recalbox.
-faq13q = Pourquoi le bluetooth integré au Raspberry Pi 3 ne fonctionne pas&thinsp;?
+faq13q = Pourquoi le bluetooth integré au Raspberry Pi 3 ne fonctionne pas ?
 faq13r1 = Le bluetooth du RPi3 est en cours d''integration, nous espérons pouvoir l''ajouter très prochainement.
 faqManual = Notice-%28FR%29
 findfacebook = "Retrouvez-nous sur Facebook"
@@ -196,12 +196,12 @@ findirc = "Retrouvez-nous sur IRC"
 findyoutube = "Retrouvez nos videos sur Youtube"
 findgithub = "Retrouvez-nous sur Github"
 hoursofgames = Heures de jeu
-homeinstall1 = Recalbox est gratuit et open source&thinsp;\!
-homeinstall2 = Installez le système maintenant sur votre Raspberry Pi&thinsp;\!
-homeinstall3 = Je veux l'installer&thinsp;\!
-release1 = Elle est arrivée&thinsp;\!
+homeinstall1 = Recalbox est gratuit et open source \!
+homeinstall2 = Installez le système maintenant sur votre Raspberry Pi \!
+homeinstall3 = Je veux l'installer \!
+release1 = Elle est arrivée \!
 release2 = Recalbox 4.0.0 FINAL
-release3 = Je la veux&thinsp;\!
+release3 = Je la veux \!
 # Shop
 shop = Boutique
 buy = Acheter
@@ -212,8 +212,8 @@ ourproducts = Le panier recalbox
 welcomeshop = Bienvenue dans la boutique
 descshop = La boutique recalbox vous permet d'acheter en toute confiance tous les composants de votre recalbox. Du Raspberry Pi aux manettes bluetooth, vous trouverez ici tout ce dont vous avez besoin pour monter votre recalbox&thinsp;\!<br/>Chacun des composants proposés ont été testés et sont 100% compatibles avec recalbox.<br/>Tous les produits sont vendus et expédiés par Amazon. Vous bénéficiez donc de la qualité de service Amazon et de leur S.A.V. lorsque que vous achetez depuis la boutique recalbox \!<br/>Vous pouvez séléctionner la boutique correspondant à votre pays en haut à droite de ce cadre.
 allcats = Toutes
-shopannounce1 = La boutique recalbox est arrivée&thinsp;\!
-shopannounce2 = Retrouvez tout ce dont vous avez besoin pour créer votre propre recalbox&thinsp;\!
+shopannounce1 = La boutique recalbox est arrivée \!
+shopannounce2 = Retrouvez tout ce dont vous avez besoin pour créer votre propre recalbox \!
 shopannounce3 = Visiter la boutique
 shopono = Oh non \!
 adblockenabled = Adblock est activé. La boutique ne peut pas s'afficher convenablement. Désactivez AdBlock pour le domaine www.recalbox.com et rechargez la page.
@@ -228,12 +228,12 @@ blog-2017-02-06-workflow-author = <div><a class\="tags__link" href\="https\://tw
 blog-2017-02-06-workflow-date = 06 Fév 2017
 blog-2017-02-06-workflow-image = images/blog/2017-02-06-workflow/mainimage.png
 blog-2017-02-06-workflow-content = <div>Un moment qu'on n'avait pas fait de point sur l'avancée du projet recalbox avec vous. On ne vous oublie pas \! <br/>L'équipe travaille d'arrache-pied depuis de nombreuses semaines pour préparer l'avenir de Recalbox. En effet, nous sommes restés silencieux car nous nous sommes concentrés sur un truc pas super sexy, chronophage et énergivore, mais... inévitable et indispensable \: une totale remise à plat de notre <b>processus de développement</b>.<br/> <br/>Pas très excitant dit comme ça, mais à terme, ça veut dire quoi \:<ul class\="list list--sign"><li>des mises à jour plus régulières</li><li>des mises à jour plus légères</li><li>une plus grande réactivité</li><li>nous n'aurons plus que deux versions \: stable et unstable</li></ul>Fini donc les mois d'attentes pour passer d'une version à une autre, pour ajouter telle ou telle fonction... et ça, c'est cool \! .<br/>Une petite version <b>4.0.1</b> sera d'ailleurs déployée d'ici <b>quelques jours/semaines</b> pour préparer votre Recalbox à ces nouveautés. Pensez à la faire lorsque vous la verrez passer \!<br/><br/>Puis dans la foulée, la sortie de la très attendue version publique de la <b>4.1.0 unstable</b>, avec le support du Bluetooth natif, de nouveaux systèmes supportés et <b>une pléiade de surprises</b>.<br/>Une version-test ouverte à tous ; on compte d'ailleurs sur vous pour participer activement au projet et remonter sur notre forum officiel les éventuels bugs/amélioration.<br/><br/>Encore une fois, on tient sincèrement à <b>vous remercier</b> pour tout l'entrain et la fidélité dont vous faites preuve à l'égard de notre projet.<br/><br/>A bientôt \!<img src\="/assets/images/blog/2017-02-06-workflow/chunli.gif"/><br/><br/><p>Et au fait, nôtre blog est de retour \:P</p></div> 
-blog-2017-02-11-4.0.1-title = \ Recalbox 4.0.1 est disponible&thinsp;\!
+blog-2017-02-11-4.0.1-title = \ Recalbox 4.0.1 est disponible \!
 blog-2017-02-11-4.0.1-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">par digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div>
 blog-2017-02-11-4.0.1-date = 18 Fev 2017
 blog-2017-02-11-4.0.1-image = images/blog/2017-02-11-4.0.1/4.0.1_release-visual.jpg
 blog-2017-02-11-4.0.1-content = <div>Nous sommes fiers de vous annoncer la sortie de recalboxOS <b>4.0.1</b>\!<br/><br/>\nCette nouvelle version apporte le support du <b>Raspberry Pi 2 v1.2</b> et prépare vôtre Recalbox pour la mise à jour vers recalbox 4.1.0 dont la version unstable arrive <b>très</b> bientôt\!\n<br/> <br/>Mettez à jour vôtre recalbox des que possible, et restez à l'écoute car nous revenons très vite pour une autre news\! \:)\n</div> 
-blog-2017-02-19-rb4.1-title = Nous sommes fier de vous annoncer la sortie de recalbox v4.1.0 unstable&thinsp;\! 
+blog-2017-02-19-rb4.1-title = Nous sommes fier de vous annoncer la sortie de recalbox v4.1.0 unstable \! 
 blog-2017-02-19-rb4.1-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">par digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div>
 blog-2017-02-19-rb4.1-date = 19 Fev 2017
 blog-2017-02-19-rb4.1-image = images/blog/2017-02-19/title.jpg
@@ -243,17 +243,17 @@ blog-2017-02-20-osk-author = \n<div><a class\="tags__link" href\="https\://githu
 blog-2017-02-20-osk-date = 20 Fev 2017
 blog-2017-02-20-osk-image = images/blog/2017-02-20-osk/recalbox-blog-osk-title.jpg
 blog-2017-02-20-osk-content = <div>\n<p dir\="auto">Cette nouvelle version de recalbox sera encore plus conviviale.</p>\n<p dir\="auto">Qui n'a jamais été dans la situation de devoir chercher désespérément un clavier USB pour saisir ses réglages WIFI, ou modifier les métadonnées d'un jeu&thinsp;? </p>\n<p dir\="auto">Aujourd'hui, avec cette nouvelle version de recalboxOS, ce temps est révolu. </p>\n<p dir\="auto">Vous pourrez utiliser votre manette et le nouveau <strong>clavier virtuel (OSK)</strong> présent dans EmulationStation.</p>\n<p dir\="auto"></p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-02-20-osk/recalbox-osk.jpg" target\="_blank"><img src\="/assets/images/blog/2017-02-20-osk/recalbox-osk.jpg" alt\="es_osk"/></a></div>\n<p dir\="auto">Voici une courte vidéo de démonstration \:</p>\n<div style\="text-align\: center"><iframe width\="560" height\="315" src\="https\://www.youtube.com/embed/LeWHVSflngU" frameborder\="0" allowfullscreen\="">video</iframe></div></div> 
-blog-2017-02-18-download-title = Vous avez cassé nos serveurs de téléchargement&thinsp;\!\! \:D
+blog-2017-02-18-download-title = Vous avez cassé nos serveurs de téléchargement \!\! \:D
 blog-2017-02-18-download-content = <div><p>Bonjour à tous,<br/>\nComme vous pouvez le voir, nos serveurs de mise à jour sont actuellement surchargés. Vous êtes trop nombreux a mettre à jour votre Recalbox, les serveurs ont trop de connexions en même temps.<br/>\nNous n'étions pas préparés à celà, nous n'avions pas ce genre de problèmes avec les sorties précédentes.<br/>\nNous avons donc redimensionné les serveurs et ajouté des mirroirs. Une fois le cache rempli sur ces mirroirs, la situation devrait revenir à la normale.<br/>\nMerci de votre patience et votre compréhension<br/>\nP.S.\: Pour information, quand votre Recalbox est en veille, le téléchargement continue. Mais une fois terminé, l'écran ne se rafraîchi pas pour afficher le message de redémarrage.<br/>\nAlors de temps en temps, bougez votre manette pour sortir la Recalbox de veille ;)<br/><br/>\n<p>\nVous pouvez suivre l'avancé du problème sur twitter \: <a href\="https\://twitter.com/recalbox">@recalbox</a></p>\n</div>
 blog-2017-02-18-download-date = 18 Fev. 2017
 blog-2017-02-18-download-image = images/blog/2017-02-18-download/title.jpg
 blog-2017-02-18-download-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">par digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div>
-blog-2017-02-21-psp4.1-title = La PSP a été ajouté à Recalbox&thinsp;\!
+blog-2017-02-21-psp4.1-title = La PSP a été ajouté à Recalbox \!
 blog-2017-02-21-psp4.1-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">par digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div>
 blog-2017-02-21-psp4.1-date = 21 Fev. 2017
 blog-2017-02-21-psp4.1-image = images/blog/2017-02-12-psp4.1/title.jpg
 blog-2017-02-21-psp4.1-content = <div>\n<p dir\="auto">Nous avons attendu trop longtemps pour ça mais voilà \: la <strong>Playstation Portable</strong> est maintenant dans Recalbox&thinsp;\!</p>\n<p dir\="auto">Nous avons intégré l'émulateur <a href\="http\://ppsspp.org" rel\="nofollow noreferrer" target\="_blank">ppsspp</a> dans <strong>recalbox 4.1.0</strong>. Vous pouvez maintenant jouer aux jeux PSP sur votre écran en HDMI&thinsp;\! </p>\n<p dir\="auto">Certains jeux peuvent tourner mieux que d'autres sur Raspberry Pi 3. L'émulateur tourne à fond sur Odroid and X86.</p>
-blog-2017-02-22-bootoptions-title = Customisez le démarrage de votre Recalbox&thinsp;\!
+blog-2017-02-22-bootoptions-title = Customisez le démarrage de votre Recalbox \!
 blog-2017-02-22-bootoptions-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">par digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div>
 blog-2017-02-22-bootoptions-date = 22 Fev. 2017
 blog-2017-02-22-bootoptions-image = images/blog/2017-02-11-bootoptions/title-boot-options.png
@@ -263,12 +263,12 @@ blog-2017-02-20-v4.0.2-author = <div><a class\="tags__link" href\="https\://twit
 blog-2017-02-20-v4.0.2-date = 20 Fev 2017
 blog-2017-02-20-v4.0.2-image = https\://s3-eu-west-1.amazonaws.com/recalbox-team/4.0.2.jpg
 blog-2017-02-20-v4.0.2-content = <div>Une nouvelle version de recalbox est en ligne&thinsp;\!<p dir\="auto">La mise à jour 4.0.2 corrige <strong>le problème d'écran noir</strong> qui pouvait apparaître au lancement de jeux sur certains systèmes. Ce problème est du a dérnière version du firmware raspberry pi embarqué dans recalboxOS 4.0.1 qui ajoutait le support du Raspberry Pi 2v1.2.</p><p dir\="auto">Vous pouvez maintenant continuer a battre des records sur Blade Buster \!</p><p dir\="auto">Pensez à faire vôtre mise à jour depuis le menu de vôtre recalbox. <br/>A bientôt \:)</p></div> 
-blog-2017-02-23-help-title = Les fenêtres d'aide dans EmulationStation&thinsp;\!
+blog-2017-02-23-help-title = Les fenêtres d'aide dans EmulationStation \!
 blog-2017-02-23-help-author = <div><a class\="tags__link" href\="https\://github.com/rockaddicted">par rockaddicted </a> <a href\="https\://github.com/rockaddicted"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/rockaddicted"><i class\="fa fa-gitlab"> </i></a></div>
 blog-2017-02-23-help-date = 23 Fev 2017
 blog-2017-02-23-help-image = images/blog/2017-02-23-help/title-help.jpg
 blog-2017-02-23-help-content = <p dir\="auto">Aujourd'hui laissez nous vous présenter une nouvelle fonctionnalité de la version 4.1</p>\\\n<p dir\="auto">Lorsque vous découvrez et configurez votre OS de rétro-gaming préféré, il n'est pas toujours possible d'aller lire la documentation en ligne pour avoir des informations sur chaque option.</p>\\\n<p dir\="auto">Pour pallier à cela, nous avons donc décidé d'ajouter la possibilité d'afficher à l'écran <strong>des fenêtres d'aide</strong>, en pressant la touche <strong>Y</strong> de votre manette.</p>\\\n<p dir\="auto">Une fenêtre va alors apparaître ainsi \: </p>\\\n<p dir\="auto"></p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-02-23-help/es_help.jpg" target\="_blank"><img src\="/assets/images/blog/2017-02-23-help/es_help.jpg" alt\="es_help"></a>\\\n<p dir\="auto">Voici une courte vidéo de démonstration \:</p> <iframe width\="560" height\="315" src\="https\://www.youtube.com/embed/Tv3c_zC2Mfg" frameborder\="0" allowfullscreen></iframe> 
-blog-2017-02-24-scraper-title = ScreenScraper désormais supporté dans Recalbox&thinsp;\!
+blog-2017-02-24-scraper-title = ScreenScraper désormais supporté dans Recalbox \!
 blog-2017-02-24-scraper-author = <div><a class\="tags__link" href\="https\://github.com/rockaddicted">par rockaddicted </a> <a href\="https\://github.com/rockaddicted"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/rockaddicted"><i class\="fa fa-gitlab"> </i></a></div>
 blog-2017-02-24-scraper-date = 24 Fev. 2017
 blog-2017-02-24-scraper-image = images/blog/2017-02-24-scraper/title-scraper.jpg
