@@ -1,0 +1,295 @@
+lost = Parece que voce está perdido...
+sorry = Pedimos sinceras desculpas...
+lost2 = A página que está procurando não existe mais.
+sorry2 = O administrador foi notificado.
+gohome = RETORNAR À HOMEPAGE
+desc = O micro console retrogaming
+keywords = emulação, retrogaming, videogames, console, snes, nes, megadrive, genesis, playstation, master system, mame, scummvm, gba, raspberry, retro
+title1 = Relembre
+title2 = o prazer de jogar
+about1 = Com o grande console retrogaming de código aberto
+maccueil = O Recalbox
+mdescription = Descrição
+minterface = Interface
+msystems = Sistemas
+mdetails = Características
+mmedia = Mídia
+mdiy = Faça seu próprio Recalbox
+therecalbox = O Recalbox
+about2 = Recalbox permite que voce jogue novamente uma variedade de jogos clássicos na sua casa, de forma fácil. O RecalboxOS é grátis, de código aberto e desenvolvido para que voce crie seu próprio Recalbox.
+retrogaming = Um console retrogaming
+retrogaming2 = Recalbox oferece uma vasta seleção de consoles e jogos clássicos. Desde os primeiros arcades passando pelo NES, Mega Drive e até plataformas em 32-bits, como o Playstation
+mediacenter = Com o Kodi já incluso, o Recalbox também serve como uma central multimídia. Através de uma conexão com sua internet doméstica, voce poderá assistir streaming de vídeo a partir de qualquer dispositivo compatível (NAS, PC, HD Externo, etc)
+supportedsystems = Sistemas inclusos
+sarcade = Os melhores jogos da história dos arcades, de "Dungeon & Dragons" ou "The King of Fighters" até "X-Men"; todos em sua casa\!
+snes = Quem não se lembra de Super Mario Bros, Tartarugas Ninja ou do primeiro Zelda ...
+ssnes = Super Mario World, Street Fighter II Turbo, Zelda\: A Link To The Past, Sim City, Final Fantasy e muito mais\! Essas não são partes de suas melhores memórias de sua infância? \:)
+spsx = Final Fantasy VII, Crash Bandicoot, Tomb Raider,... Precisa listar mais jogos?
+sclassics = Volte ainda mais no tempo e desfrute do nosso comedor de fantasmas favoritos, Pac-Man e defenda o mundo de uma invasão alienígena com Space Invaders.
+sms = Pedra, Papel e Tesoura\! Tomem cuidado chefões de Alex-Kidd
+Megadrive = Megadrive
+smegadrive = Acelere fundo com o Sonic, procure tesouros em LandStalkers e destrua hordas alienígenas em Alien Soldier\!
+sgba = Muitos jogos que voce não teve a oportunidade de jogar no GBA? Chegou a hora de jogá-los.
+satari2600 = Um dos primeiros consoles de videogames caseiros da história\!
+spce = Conhecido tambem por SuperGraphX. É um console 16 bits com jogos icônicos
+sgbc = ... e em cores\!
+sgb = Desfrute do console portátil mais jogado da história\!
+smsx = Para jogadores e programadores\: Recalbox emula o MSX 1, 2 e 2+
+ssg1000 = Lançado no mesmo dia do NES, foi esquecido até agora...
+sn64 = Mario 64, Zelda 64, tudo 64...
+s32x = Sim, assim era Virtua Racing...
+ssegacd = O primeiro console em CD da Sega. Jogue "Snatcher"\!
+sscummvm = Prepare seu mouse e divirta-se\!
+# 3.3.0 systems
+satari7800 = O Atari que tentou competir com o NES e o Master System\!
+sprboom = Retorne à Phobes e destrua as piores criaturas vindas do Inferno\!
+sfds = O Family Computer Disk System, lançado somente no Japão, fez com que o Famicom tivesse conectividade com drivers de disquete.
+sgaw = Eles já te acordaram pela manhã\!
+sgamegear = O Master System portátil, com bateria infinita\!
+slynx = O único console portátil da história da Atari, e o primeiro da história com tela LCD colorida\!
+sneogeopocket = Os jogos clássicos da SNK, portáteis\!
+ssupergrafx = Somente 5 jogos lançados nesse console que é irmão do PCEngine. Jogue-os\!
+svectrex = O primeiro console 100% vetorial\!
+svirtualboy = É tudo vermelho\!
+swonderswan = Mais um portátil, com jogos da série Final Fantasy remasterizados\!
+sneogeo = The King of Fighters, Garou, Last Blade, Fatal Fury,... Centenas de horas de jogos de lutas\!
+# 4.0.0 systems
+sodyssey2 = Equipado com um processador de 1,79Mhz e 64 bytes de RAM. Parece divertido, certo?\!
+szx81 = Um dos primeiros computadores pessoais do Reino Unido com jogos incríveis como 3D Monster Maze, Night Gunner e Black Crystal
+szxspectrum = Ainda tem uma enorme comunidade hacker\!
+samstradcpc = Também chamado de Schneider CPC, ele vem com gráficos em 8-bits e promete horas de diversão. Para fãs verdadeiros\!
+satarist = O único competidor real do Apple e da IBM
+smoonlight = Faça streaming de jogos de PC no seu Recalbox\!
+features = Características
+onlineupdate = Atualizações online
+onlineupdate2 = Desfrute os emuladores mais recentes e mais otimizados através de atualizações do Recalbox num simples clique.
+4players = Voce tem diversos controles USB e Bluetooth? Tem amigos? Jogue com quatro jogadores\!
+rewind = Retroceder
+rewind2 = Controle o tempo e retroceda qualquer jogo em caso de problemas com alguma fase\!
+screenshots = Capture a tela de seus jogos e mostre o quão bom voce é\!
+savestates = Salve qualquer jogo em qualquer hora e recarregue instantaneamente através de savestates
+wirelesscontrolers = Controles sem fio
+wirelesscontrolers2 = Recalbox suporta controles de XBox 360, PS3, 8Bitdo e controles bluetooth, dessa forma voce joga confortavelmente no seu sofá\!
+numbers = Falando sobre números
+compatiblesgames = Jogos compatíveis
+# If we only translate "players". The entire phrase have no sense in Portuguese.
+# Fuzzy
+players = Jogadores
+os = RecalboxOS - Baseado em Linux
+update = Atualizações
+recalboxes = Recalboxes
+choosemodel = Escolha o seu modelo
+playble4 = Cinco jogadores\!
+chronodesc = Redescubra um dos melhores RPGs da história\!
+littlepower = São pequeno e tão poderoso\!
+backintime = Vamos voltar no tempo\!
+hacks = Descubra jogos customizados como algumas sequencias de Mario World; jamais lançadas no console\!
+sagefrontier2 = RPGs de Playstation
+degommez = Atire em tudo que puder\!
+video_snes = Super Nintendo Entertainment System
+video_snes2 = Veja o SNES em ação no Recalbox\!
+video_psx_title = Playstation e Sega 32x
+video_psx_desc = Jogatina ao vivo - Playstation e Sega 32x\!
+# Open source
+opensourcetitle1 = Muitos softwares de código aberto...
+opensourcetitle2 = ...unidos num único SO.
+opensourcedesc1 = Recalbox é um sistema operacional (SO) baseado em GNU/Linux. Ele contém centenas de tipos diferentes de software de código aberto; do minúsculo arquivos de sistema à enorme interface EmulationStation.
+opensourcedesc2 = Experimente mais de 40 emuladores da biblioteca do Retroarch/Libretro, o famoso Kodi Media Center e uma versão customizada do EmulationStation\!
+# Hacks homebrews
+hackstittle2 = Descubra jogos jamais lançados nos consoles
+hackstittle1 = Com jogos caseiros e hacks
+homebrewsdesc = Jogos caseiros (Homebrew) são jogos inteiramente criados por desenvolvedores independentes. Muitas surpresas inesperadas que farão voce curtir um ótimo tempo de jogo.
+hacksdesc = Hacks são jogos criados com base em jogos originais. Ele mantém a estrutura básica do jogo original mas modifica alguns gráficos ou até mesmo a história como um todo, o nível de dificuldade e toda a atmosfera que o jogo original tinha. Alguns são considerados obras-primas como pro exemplo o Super Mario Bros 4. (Hack do Super Mario World) ou o The Legend of Zelda - Parallels World (Hack do Zelda\: A Link To The Past)
+# Media projects
+mgoularttitle = Gabinetes de fliperama
+mgoulartdesc = por Marcelo Goulart
+recalstickdesc = Controle de Fliperama customizado
+recalnesdesc = NES customizado
+metalslugcabtitle = Bartop com temática do Metal Slug
+metalslugcabdesc = Um Bartop com temática do Metal Slug rodando Recalbox
+plus = Mais
+# DIY
+diydonate1 = Recalbox é um projeto grátis e de código livre
+diydonate2 = sinta-se livre para participar \:)
+diytitle1 = Crie seu próprio
+diytitle2 = recalbox
+diydesc1 = Se voce está aqui, voce está no processo de criação de seu próprio console com múltiplos emuladores para sua TV com entrada HDMI ou até um gabinete de Arcade com um sistema embarcado\!
+diydesc2 = Voce está na página certa\!
+diydesc3 = Siga o guia e crie seu próprio Recalbox em três fáceis passos
+diystep2head = Instale o sistema
+diystep1head = Tenha o hardware
+diystep3head = Configure o Recalbox
+diystep2text = Instale o RecalboxOS no seu Hardware
+diystep1text = Tenha todos os componentes necessários
+diystep3text = Configure seu controle USB ou Bluetooth, e adicione os jogos
+threesteps = 3 passos
+step1title = PASSO 1. Tenha o hardware
+componentsneeded = Voce precisa dos seguintes itens para criar seu Recalbox\:
+diyrpi2 = Um Raspberry Pi 3 (Ou um Raspberry Pi B ou B+ ou um Raspberry Pi 2)
+diypower = Uma fonte de energia USB de boa qualidade com pelo menos 2.5A
+diyhdmi = Um cabo HDMI
+diyps3control = Um controle de PS3, um controle Shanwan ou um controle USB
+diysdcard = Um cartão MicroSD com pelo menos 16GB
+diybtdongle = Um dongle Bluetooth de boa qualidade
+diyrpicase = Uma case de Raspberry Pi
+diyusbkeyboard = Um teclado USB caso voce não tenha um controle.
+diygotostep2 = Uma vez que tenha todos os componentes, voce pode iniciar a instalação do RecalboxOS no seu cartão MicroSD
+diyitstime = É hora de baixar e instalar o RecalboxOS
+step2title = PASSO 2\: Instalar o RecalboxOS
+diyinstall1 = Vá até
+diyinstall2 = Baixe a última versão do RecalboxOS. Voce pode instalar o RecalboxOS num cartão formatado em Fat32. Utilize um software para formatar cartões
+diyinstall3 = no Windows e MacOSX ou gparted no Linux.
+diyinstall4 = Extraia o arquivo recalboxOS.zip e copie todos os arquivos para o cartão.
+diyinstall5 = Insira o cartão MicroSD no Raspberry Pi, plugue um cabo HDMI, o teclado e o cabo de força. Seu Raspberry Pi bootará e a instalação se iniciará.
+diyinstall6 = Agora voce tem um Recalbox\!
+step3title = PASSO 3\: Configure seu Recalbox
+diysetup1 = Voce poderá configurar seu controle no seu novo Recalbox\!
+diysetup2 = Se voce tem um controle PS3 com dongle Bluetooth, plugue um cartão micro USB no controle, conecte no Recalbox e espere 10 segundos. Agora desplugue o cabo e aperte o botão Home. Seu controle estará configurado\!
+diysetup22 = Se voce tem um controle de Xbox 360 USB, é só plugar e jogar\!
+diysetup3 = Se voce tem um controle USB, plugue um teclado, aperte ENTER no EmulationStation, selecione a opção "Configurar controle", aperte a tecla S, então selecione a opção "Configurar um controle" e aperte a tecla S novamente. Siga as instruções e mapeie cada um dos botões de seu controle de acordo com as instruções da tela. Os botões são baseados no controle de Super Nintendo.
+diysetup4 = Veja o
+diysetup5 = para mais informações\!
+diysetup6 = Mais em recalbox
+diyshare = Por favor, compartilhe seu projeto conosco em nosso fórum\:
+# faq
+faqTitle = Vamos tentar responder as perguntas mais frequentes...
+faq1q = Onde está a documentação?
+faq1r1 = Voce pode encontrar a documentação no Wiki do Recalbox no Github
+faq1r2 = O manual em Inglês pode ser encontrado em
+faq2q = Como posso contribuir?
+faq2r1 = Voce pode fazer uma doação
+faq2r2 = Voce pode criar uma solicitação de solução de problemas no Github do Recalbox, se voce encontrar algum
+faq2r3 = Voce pode participar no
+faq2r4 = Voce pode participar no Wiki
+faq2r5 = Fóruns recalbox.com
+faq2r6 = Faça seu próprio Recalbox
+faqLang = ING
+faq3q = Quantos jogos o Recalbox tem?
+faq3r1 = Tentamos adicionar o máximo de jogos grátis para que voce possa ter uma experiência completa jogo no primeiro boot\!
+faq3r2 = Vejo voce lá
+faq3r3 = para compartilhar seus homebrews\!
+faq4q = Qual é o hardware compatível?
+faq4r1 = Raspberry Pi 1 B ou B+, Zero, 2 ou 3
+faq5q = Posso utilizar o Recalbox num Bartop ou num gabinete de Fliperama?
+faq5r1 = O RecalboxOS foi desenvolvido para facilitar a integração do sistema com Bartop e gabinetes de Fliperama. Voce pode conectar seus controles diretamente na GPIO do Raspberry Pi, evitando assim conexões USB adicionais. Voce pode desativar diversas opções do menu do EmulationStation, evitando assim possíveis desconfigurações. Voce pode também utilizar diferentes saídas de vídeo como por exemplo HDMI, DVI, VGA (Com adaptador) ou RCE. Mais informações nesse <a href\="https\://github.com/digitalLumberjack/recalbox-os/wiki/Configure-recalbox-for-a-Bartop-or-Arcade-Cab-%28EN%29">link</a> (Em Inglês).
+faq6q = O Recalbox tem mais de 40 sistemas emulados, por que só vejo alguns?
+faq6r1 = Somente sistemas com jogos disponíveis são apresentados no EmulationStation. Tente acrescentar roms (veja o <a href\="https\://github.com/digitalLumberjack/recalbox-os/wiki/Manual-%28PT%29">Manual</a>) e reinicie seu Recalbox para ver os novos sistemas.
+faq7q = Quando eu inicio algum jogo em alguns sistemas, a tela fica preta e o EmulationStation reaparece em alguns segundos. O que há de errado?
+faq7r1 = Alguns sistemas precisam de BIOS para rodar as ROMS. Veja esse<a href\="https\://github.com/digitalLumberjack/recalbox-os/wiki/Add-system-bios-%28EN%29">link</a> para mais informações (Em Inglês). 
+faq8q = Posso desativar a música de fundo do EmulationStation?
+faq8r1 = Essa opção está disponível em Opções de Áudio --> Música de Fundo
+faq9q = Meus controles de PS3 não funcionam quando eu os plugo no USB. O que fazer?
+faq9r1 = Esse problema foi reportado pelos usuários. Por hora, os controles de PS3 só possuem suporte via Bluetooth.
+faq10q = Onde posso acompanhar o progresso do desenvolvimento do RecalboxOS?
+faq10r1 = Em <a href\="https\://github.com/digitalLumberjack/recalbox-os">recalbox-os github</a>, voce pode verificar os problemas relatados nesse"<a href\="https\://github.com/digitalLumberjack/recalbox-os">link</a>" na qual estão as tarefas que estão sendo desenvolvidas no momento. Voce pode verificar os  "<a href\="https\://github.com/digitalLumberjack/recalbox-os/milestones">milestones</a> de cada versão onde verá quais tarefas foram feitas e que estão sendo feitas para cada versão do Recalbox".
+faq11q = Preciso fazer Overclock do meu Raspberry Pi?
+faq11r1 = No Raspberry Pi 1 e Zero, recomendamos fortemente que voce utilize a opção Extrema. Isso fará com que voce perca a garantia do seu Raspberry Pi, porém a performance das emulações será superior\!
+faq12q = Posso emular jogos de Dreamcast e PSP no Recalbox?
+faq12r1 = Estamos trabalhando na integração desses novos sistemas, porém voce terá que esperar até a versão 4.1.
+faq13q = O Bluetooth do meu Raspberry Pi 3 não funciona. O que fazer?
+faq13r1 = Estamos trabalhando nesse problema e esperamos resolvê-lo o mais rápido possível
+faqManual = Manual-%28PT%29
+findfacebook = "Siga-nos no Facebook"
+findgplus = "Siga-nos no Google +"
+findtwitter = "Siga-nos no Twitter"
+findirc = IRC
+findyoutube = "Assista nossos vídeos no Youtube"
+findgithub = "Procure-nos no Github"
+hoursofgames = Horas de jogo
+homeinstall1 = Recalbox é livre e de código aberto\!
+homeinstall2 = Instale o sistema operacional agora no seu Raspberry Pi\!
+homeinstall3 = Eu quero instalá-lo\!
+release1 = Finalmente chegou\!
+release2 = Recalbox 4.0.0 FINAL
+release3 = Baixe agora\!
+# Shop
+shop = Loja
+buy = Compre
+amazonpremium = Amazon Premium
+selectioned = Itens selecionados
+amazonservice = Serviço ao cliente da Amazon
+ourproducts = Cesta de compras
+welcomeshop = Bem-vindo à nossa loja
+descshop = O Recalbox Shop é uma forma fácil de conseguir seu Recalbox, tendo a certeza que todos os componentes serão compatíveis\! Todos os produtos são vendidos e enviados pela Amazon, então voce tem toda a garantia da companhia quando voce comprar seu Recalbox aqui\! Voce pode selecionar a loja de seu país clicando nos botões no topo direito dessa página.
+allcats = Tudo
+shopannounce1 = O Recalbox Shop é aqui\!
+shopannounce2 = Compre tudo que voce precisa para fazer seu próprio Recalbox\!
+shopannounce3 = Visite a loja
+shopono = Oh não\!
+adblockenabled = Bloqueador de anúncios ativo. A loja não pode ser apresentada. Por favor desative seu bloqueados de anúncios para o nosso endereço (www.recalbox.com) e recarregue a página.
+disableadblock = Desative o bloqueados de anúncios
+shopissue = Algo deu errado\! Por favor recarregue a página.
+shopreload = Recarregar
+titleSite = Recalbox - O micro console retrogaming
+titleShop = Recalstore - A loja do Recalbox
+# Blog Post workflow
+blog-2017-02-06-workflow-title = Quer notícias sobre o projeto?
+blog-2017-02-06-workflow-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div> 
+blog-2017-02-06-workflow-date = 06 Fev 2017
+blog-2017-02-06-workflow-image = \nimages/blog/2017-02-06-workflow/mainimage.png 
+blog-2017-02-06-workflow-content = <div> Tem sido um tempo enorme desde a nossa última atualização sobre o andamento do projeto. Tenha certeza de que não nos esqueçamos de você \:) <br/> A equipe vem trabalhando há semanas em algo que não é realmente sexy e demorado, mas essencial para o futuro do projeto\: revisamos todo o nosso <b> processo de desenvolvimento <b>. <br/> <br/> Isto não é muito emocionante, mas aqui está o que você pode esperar a partir de agora\: <ul class\="list list--sign"><li> as atualizações serão mais freqüentes <li> <li> as atualizações serão mais leves (ou seja, menos novos recursos ao mesmo tempo) </li> <li> seremos mais reativos aos problemas e corrigiremos os erros rapidamente </li> <li> Instável e estável </li> </ul> Você não terá que esperar meses para obter uma nova versão com novos recursos, a diferença <b> entre desenvolvimento e releases </ b> será <b> muito menor </b>. <br/> Para preparar seu recalbox para este novo processo, uma <b> versão 4.0.1 </ b> será lançada em <b> alguns dias </b>. <br/> <br/> E logo a seguir, vamos ativar a <b> atualização instável </b> de seu recalbox para que você possa atualizar para <b> Recalbox 4.1.0 </b>. Ele vem com o suporte a bluetooth rpi3, novos sistemas e muitos outros recursos interessantes\! <br/> Estamos contando com você para relatar problemas em nosso fórum de discussão ou no fórum \:) <br/> <br/> Mais uma vez, nós sinceramente desejamos <b> agradecer </b> por todo o entusiasmo e lealdade que você mostra com nosso projeto. <br/> <br/> Até logo\! <Img src \= "/assets/images/blog/2017- 02-06-workflow/chunli.gif"/> <br/> <br/> <p> Hum e sim, temos um blog de volta\:) </p> </div>
+blog-2017-02-11-4.0.1-title = Recalbox 4.0.1 lançado\!
+blog-2017-02-11-4.0.1-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div> 
+blog-2017-02-11-4.0.1-date = 18 Fev 2017
+blog-2017-02-11-4.0.1-image = images/blog/2017-02-11-4.0.1/4.0.1_release-visual.jpg 
+blog-2017-02-11-4.0.1-content = <div>Estamos orgulhosos de anunciar o lançamento de recalboxOS <b> 4.0.1 </b> \! <br/><br/>\nEsta nova versão traz o suporte de <b> Raspberry Pi 2 v1.2 </b> e prepara seu recalbox para a nova versão 4.1.0 instável que vem <b> realmente </b> em breve\!\n<br/> <br/> Atualize o seu recalbox assim que possível, e nós prometemos estar de volta em outro momento para a próxima notícia \:)\n</div>
+blog-2017-02-19-rb4.1-title = Estamos orgulhosos de anunciar o lançamento do recalbox v4.1.0 instável\!
+blog-2017-02-19-rb4.1-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div> 
+blog-2017-02-19-rb4.1-date = 19 Fev 2017
+blog-2017-02-19-rb4.1-image = images/blog/2017-02-19/title.jpg 
+blog-2017-02-19-rb4.1-content = <div>\\\n                        <div class \= "col-sm-8">\\\n                            Estamos orgulhosos de anunciar o lançamento de recalboxOS <b> 4.1.0 </b> instável\! <br/> <br/> \\\n                            Obtenha os últimos recursos do recalbox agora mesmo instalando a atualização instável 4.1.0 diretamente no seu recalbox\!\\\n                            <br/>Certifique-se de que está na <b> versão 4.0.1 </b> e defina o <b> <i> update.type </i> </b> para <b> <i>\n                            Instável </i> </b> no seu arquivo de configurações <i>\\\n                            recalbox.conf </i>\\\n                            <br/> Então, abra o Menu do Sistema e prossiga para uma atualização. <br/> <br/> \\\n                            Iremos regularmente publicar posts sobre os novos recursos que você pode encontrar nesta versão\! <br/> <br/> \\\n                            E aqui está o primeiro, agora suportamos <b> 22 idiomas </ b> no recalbox\: <br/>\\\n                            <p>\\\n                                BASQUE 正體中文 简体中文 DEUTSCH ENGLISH ESPAÑOL FRANÇAIS ITALIANO PORTUGUES SVENSKA TÜRKÇE CATALÀ ARABIC DUTCH GREEK KOREAN NORWEGIAN NORWEGIAN BOKMAL POLISH JAPANESE RUSSIAN HUNGARIAN\\\n                            </p>\\\n                            Gostaríamos de agradecer a todos os tradutores que contribuíram para a internacionalização do recalbox, e lembramos que você também pode\\\n                            Participar e traduzir recalbox ou o site recalbox no seu próprio idioma\:\\\n                            <a href\="https\://poeditor.com/projects/view?id\=71139"> traduzir recalbox </a>\\\n                            ou\\\n                            <a href\="https\://poeditor.com/projects/view?id\=71141"> traduzir www.recalbox.com </a>\\\n                            <br/> <br/>\\\n                            Fique atento para o próximo recurso\!\\\n                            <br/> <br/>\\\n                        </div>\\\n                        <div class\="col-sm-4"> \\\n                            <div class\="image-container imagem-container--max image-container--border-huge">\\\n                                <a href\="/assets/images/blog/2017-02-19/splash.png">\\\n                                    <Img src \= "/assets/images/blog/2017-02-19/splash.png" alt\=""/>\\\n           </a>\\\n                            </div>\\\n                            <div class\="image-container image-container--max image-container--border-huge smaller-top-space">\\\n                                <a href\="/assets/images/blog/2017-02-19/es_lang.png">\\\n                                    <img src\="/assets/images/blog/2017-02-19/es_lang.png" alt\=""/>\\\n                                </a>\\\n                            </div>\\\n                        </div>\\\n                    </div> 
+blog-2017-02-20-osk-title = Teclado na tela - On Screen Keyboard (OSK)
+blog-2017-02-20-osk-author = <div><a class\="tags__link" href\="https\://github.com/rockaddicted">by rockaddicted </a> <a href\="https\://github.com/rockaddicted"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/rockaddicted"><i class\="fa fa-gitlab"> </i></a></div> 
+blog-2017-02-20-osk-date = 20 Fev 2017
+blog-2017-02-20-osk-image = images/blog/2017-02-20-osk/recalbox-blog-osk-title.jpg 
+blog-2017-02-20-osk-content = <div>\n<p dir\="auto">A nova versão do recalbox será mais amigável do que nunca com você.</p>\n<p dir\="auto">Quem nunca teve o caso irritante de procurar um teclado USB para inserir configurações WIFI, uma informação de jogo em metadados, etc ...?</p>\n<p dir\="auto">Hoje, com esta nova versão, este tempo acabou. </p>\n<p dir\="auto">Você poderá usar seu gamepad e o novo <strong>On Screen Keyboard (OSK)</strong> na EmulationStation.</p>\n<p dir\="auto"></p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-02-20-osk/recalbox-osk.jpg" target\="_blank"><img src\="/assets/images/blog/2017-02-20-osk/recalbox-osk.jpg" alt\="es_osk"/></a></div>\n<p dir\="auto">Aqui está um pequeno vídeo de demonstração\:</p>\n<div style\="text-align\: center"><iframe width\="560" height\="315" src\="https\://www.youtube.com/embed/LeWHVSflngU" frameborder\="0" allowfullscreen\="">video</iframe></div></div>
+blog-2017-02-18-download-title = Você quebrou nosso servidor de download \!\! \:D 
+blog-2017-02-18-download-content = <div><p>Olá pessoal,<br/>\nAssim como você pode ver, nossos servidores de atualização estão realmente sobrecarregados. Você é muitos usuários atualizando sua recalbox, então os servidores têm muitas conexões ao mesmo tempo.<br/>\nNão estávamos preparados para isso. Não tivemos esse tipo de problema com lançamentos anteriores. <br/>\nEntão, nós dimensionamos os servidores e adicionamos espelhos. Uma vez que o cache cheio nesses espelhos, a situação deve voltar ao normal.<br/>\nObrigado por ter paciência e compreensão.<br/>\nPS\: Para sua informação, uma vez que sua caixa de repouso no modo de espera, o download atual ainda progride. Mas uma vez feito, a tela não será atualizada para exibir a mensagem de reinicialização.<br/>\nEntão, às vezes, mova o gamepad para acordar o seu recalbox ;)<br/><br/>\n<p>\nPode seguir a evolução do problema no twitter\:  <a href\="https\://twitter.com/recalbox">@recalbox</a></p>\n</div> 
+blog-2017-02-18-download-date = 18 Fev 2017
+blog-2017-02-18-download-image = images/blog/2017-02-18-download/title.jpg 
+blog-2017-02-18-download-author = \n<div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div> 
+blog-2017-02-21-psp4.1-title = The PSP is now supported on recalbox\! 
+blog-2017-02-21-psp4.1-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div>
+blog-2017-02-21-psp4.1-date = 21 Fev 2017
+blog-2017-02-21-psp4.1-image = images/blog/2017-02-12-psp4.1/title.jpg 
+blog-2017-02-21-psp4.1-content = <div>\n<p dir\="auto">Esperamos muito tempo para isso, mas aqui está\: o <strong> Playstation Portable</strong> agora faz parte do recalbox\!</p>\n<p dir\="auto">Nós incluímos o emulador <a href\="http\://ppsspp.org" rel\="nofollow noreferrer" target\="_blank">ppsspp</a>em <strong> recalbox 4.1.0</strong>. Agora você pode jogar, os jogos de Playstation Portable em sua tela HDMI\! </p>\n<p dir\="auto">Alguns jogos podem rodar mais rápido do que outros no Raspberry Pi 3. O emulador está cheio de velocidade no Odroid e no X86.</p>\n\n<p dir\="auto"></p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-02-12-psp4.1/game-select-psp.jpg" target\="_blank"><img src\="/assets/images/blog/2017-02-12-psp4.1/game-select-psp.jpg" alt\="game-select-psp"/></a></div>\n<div class\="image-container"><a class\="no-attachment-icon" href\="https\://gitlab.com/recalbox/www.recalbox.com/uploads/977c7bbc66b5aa4c88afc2f684c85ef4/castelvania-x-psp.jpg" target\="_blank"><img src\="https\://gitlab.com/recalbox/www.recalbox.com/uploads/977c7bbc66b5aa4c88afc2f684c85ef4/castelvania-x-psp.jpg" alt\="castelvania-x-psp"/></a></div>\n\n<p dir\="auto"> O emulador é autônomo, portanto os comandos não são exatamente os mesmos em outros emuladores e você tem acesso ao menu do emulador ao pressionar <strong>HOTKEY</strong>,  você Tem que ir para o menu de saída para voltar no recalbox\:\n</p><div class\="image-container"><a class\="no-attachment-icon" href\="https\://gitlab.com/recalbox/www.recalbox.com/uploads/bc0e33fee3e46b4d8c1108c53615437c/menu-screen-psp.jpg" target\="_blank"><img src\="https\://gitlab.com/recalbox/www.recalbox.com/uploads/bc0e33fee3e46b4d8c1108c53615437c/menu-screen-psp.jpg" alt\="menu-screen-psp"/></a></div>\n<div class\="image-container"><a class\="no-attachment-icon" href\="https\://gitlab.com/recalbox/www.recalbox.com/uploads/d7ff59a6d7a6c82e404f5c468eac7108/exit-screen-psp.jpg" target\="_blank"><img src\="https\://gitlab.com/recalbox/www.recalbox.com/uploads/d7ff59a6d7a6c82e404f5c468eac7108/exit-screen-psp.jpg" alt\="exit-screen-psp"/></a></div>\n\n<p dir\="auto">Aqui está um vídeo de nossa recalbox rodando <strong> Castlevania\: The Dracula X Chronicles</strong>\:</p><br/>\n  <div style\="text-align\: center"><iframe width\="560" height\="315" src\="https\://www.youtube.com/embed/LB2VYdE98rs" frameborder\="0" allowfullscreen\="">youtube video</iframe></div></div> 
+blog-2017-02-22-bootoptions-title = Personalize a forma de inicialização de seu recalbox\!
+blog-2017-02-22-bootoptions-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div> 
+blog-2017-02-22-bootoptions-date = 22 Fev 2017
+blog-2017-02-22-bootoptions-image = images/blog/2017-02-11-bootoptions/title-boot-options.png 
+blog-2017-02-22-bootoptions-content = <div><p dir\="auto">A nova versão do recalbox traz para você um novo nível de personalização.</p><p dir\="auto">Hoje vamos ver como você pode decidir exatamente o que acontece quando você inicializa o recalbox\!</p><p dir\="auto">Ao entrar no <strong>CONFIGURAÇÕES AVANÇADAS</strong>, você verá um <strong>CONFIGURAÇÕES DE INICIALIZAÇÃO</strong> entrada \:</p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-02-11-bootoptions/advanced-settings.jpg" target\="_blank"><img src\="/assets/images/blog/2017-02-11-bootoptions/advanced-settings.jpg" alt\=""/></a></div><p dir\="auto">Neste menu você pode definir a opção para modificar o comportamento de inicialização\:</p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-02-11-bootoptions/boot-settings.jpg" target\="_blank"><img src\="/assets/images/blog/2017-02-11-bootoptions/boot-settings.jpg" alt\=""/></a></div><p dir\="auto">Vamos ver o que significa\:</p><ul dir\="auto"><li> <strong>Iniciar o KODI</strong> \: iniciar o kodi, E acessar emulationstation apenas ao sair do kodi.</li><li> <strong>APENAS GAMELIST </strong> \: mostra apenas os jogos contidos no arquivo gamelist.xml (localizado nos diretórios das roms). Esta opção acelera muito o tempo de inicialização quando você tiver fazendo scrap dos jogos, mas os novos jogos não serão detectados.</li><li> <strong>INICIALIZAÇÃO DO SISTEMA</strong> \: selecione qual sistema mostrar quando o frontend do recalbox for iniciado. O valor padrão é 'favoritos'. </li><li> <strong>INICIALIZAÇÃO DO GAMELIST</strong> \:  mostra a lista de jogos do sistema selecionado em vez da visualização do sistema.</li><li> <strong>OCULTAR VISUALIZAÇÃO DO SISTEMA</strong> \: ocultar a visualização do sistema. A visualização do sistema é a visualização onde você vê logos de sistemas disponíveis. Você começará em uma gamelist e não poderá navegar pelos sistemas. Útil para bartop e arcades, ou se você deseja corrigir um sistema para você childs. Esta opção habilita automaticamente INICIALIZAÇÃO DO GAMELIST</li><li> <strong>FORÇAR VISUALIZAÇÃO BASICA DO GAMELIST</strong> \: exibe somente a lista de jogos básica, mesmo que informações de recados sejam encontradas nos arquivos gamelist.xml</li></ul><p dir\="auto"> E aqui está um vídeo sobre como será\: </p><div style\="text-align\: center"><iframe width\="560" height\="315" src\="https\://www.youtube.com/embed/W2C1OO_fvSE" frameborder\="0" allowfullscreen\="">video</iframe></div><p dir\="auto">Divirta-se\!</p> </div>
+blog-2017-02-20-v4.0.2-title = Saiu RecalboxOS v4.0.2\!
+blog-2017-02-20-v4.0.2-author = <div><a class\="tags__link" href\="https\://twitter.com/digitalumberjak">by digitalLumberjack </a> <a  href\="https\://twitter.com/digitalumberjak"><i class\="fa fa-twitter"> </i></a> <a href\="https\://github.com/digitallumberjack"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/digitallumberjack"><i class\="fa fa-gitlab"> </i></a></div> 
+blog-2017-02-20-v4.0.2-date = 20 Fev 2017
+blog-2017-02-20-v4.0.2-image = https\://s3-eu-west-1.amazonaws.com/recalbox-team/4.0.2.jpg
+blog-2017-02-20-v4.0.2-content = <div>Uma nova atualização do recalbox está on-line\! <p dir\="auto"> A atualização do recalbox 4.0.2 corrige o problema <strong>black screens</strong> com alguns sistemas. Este problema foi devido ao novo firmware do raspberry pi incorporado com o recalbox 4.0.1 que adiciona o suporte ao rpi2 v1.2.</p><p dir\="auto">Agora você pode marcar novamente no Blade Buster\!</p><p dir\="auto">Atualize o mais rapidamente possível a partir do menu de sistema do seu recalbox. <br/> Voltaremos em breve \:)</p></div>
+blog-2017-02-23-help-title = Novo frontend com Popups de ajuda\!
+blog-2017-02-23-help-author = <div><a class\="tags__link" href\="https\://github.com/rockaddicted">par rockaddicted </a> <a href\="https\://github.com/rockaddicted"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/rockaddicted"><i class\="fa fa-gitlab"> </i></a></div> 
+blog-2017-02-23-help-date = 23 Fev 2017
+blog-2017-02-23-help-image = images/blog/2017-02-23-help/title-help.jpg
+blog-2017-02-23-help-content = <p dir\="auto">Olá, hoje vamos introduzir um novo recurso da versão 4.1.</p><p dir\="auto">Quando você está descobrindo e configurando seu sistema operacional favorito, e nem sempre é possível para verificar o nosso manual on-line para obter informações sobre cada opção.</p><p dir\="auto">Assim, decidimos adicionar a possibilidade de exibir na tela, <strong>pop-up de ajuda</strong>,  disponível no botão <strong>Y</strong> de seu controle.</p><p dir\="auto">O pop-up está assim\:  </p><p dir\="auto"></p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-02-23-help/es_help.jpg" target\="_blank"><img src\="/assets/images/blog/2017-02-23-help/es_help.jpg" alt\="es_help"></a><p dir\="auto">Aqui está um pequeno vídeo de demonstração\:</p> <iframe width\="560" height\="315" src\="https\://www.youtube.com/embed/Tv3c_zC2Mfg" frameborder\="0" allowfullscreen></iframe> 
+blog-2017-02-24-scraper-title = Suporte de ScreenScraper em recalbox\!
+blog-2017-02-24-scraper-author = <div><a class\="tags__link" href\="https\://github.com/rockaddicted">by rockaddicted </a> <a href\="https\://github.com/rockaddicted"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/rockaddicted"><i class\="fa fa-gitlab"> </i></a></div>
+blog-2017-02-24-scraper-date = 24 Fev 2017
+blog-2017-02-24-scraper-image = images/blog/2017-02-24-scraper/title-scraper.jpg
+blog-2017-02-24-scraper-content = <p dir\="auto">O novo lançamento do recalbox apresenta um novo scraper, baseado no <a href\="http\://screenscraper.fr/" rel\="nofollow noreferrer" target\="_blank">screenscraper</a> database.</p>\n<p dir\="auto"> Este scraper permite que você raspe automaticamente em seu idioma nativo (EN, FR, DE, ES, PT) quando as informações estão disponíveis no banco de dados.</p>\n<p dir\="auto"> Permite-lhe também, alternar entre visuais normais ou compostos\:</p>\n<p dir\="auto"></p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-02-24-scraper/es_scraper.jpg" target\="_blank"><img src\="/assets/images/blog/2017-02-24-scraper/es_scraper.jpg" alt\="es_scraper"></a></div>\n<p dir\="auto">Aqui está um pequeno vídeo de demonstração</p>\n<iframe width\="560" height\="315" src\="https\://www.youtube.com/embed/xd1i1mJdkjU" frameborder\="0" allowfullscreen></iframe>
+blog-2017-03-04-favicons-title = Novo favoritos\!
+blog-2017-03-04-favicons-author = <div><a class\="tags__link" href\="https\://github.com/rockaddicted">by rockaddicted </a> <a href\="https\://github.com/rockaddicted"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/rockaddicted"><i class\="fa fa-gitlab"> </i></a></div>
+blog-2017-03-04-favicons-date = 4 Mar 2017
+blog-2017-03-04-favicons-image = images/blog/2017-03-04-favicons/favicons_feature-visual.jpg
+blog-2017-03-04-favicons-content = <p dir\="auto">Oi, hoje vamos ver uma melhoria pequena, mas legal sobre o sistema de favoritos.</p><p dir\="auto">O sistema Favoritos é uma característica muito boa introduzida na versão 4.0.0. Mas, quando você tem muitos jogos marcados como favoritos, ou muitos jogos com o mesmo nome em sistemas de jogos diferentes, o sistema de favoritos global pode se tornar confuso.</p><p dir\="auto">Assim, decidimos substituir o padrão <img src\="/assets/images/blog/2017-03-04-favicons/star.png" height\="20" width\="20" align\="absmiddle"> ícone com <strong>ícone específico para cada sistema</strong>.</p><p dir\="auto">Você pode ver aqui exemplos com o sistema GBA e o resultado final no sistema Favoritos\:</p><p dir\="auto"></p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-03-04-favicons/es_favicons_2.jpg" target\="_blank"><img src\="/assets/images/blog/2017-03-04-favicons/es_favicons_2.jpg" alt\="es_favicons_2"></a></div><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-03-04-favicons/es_favicons.jpg" target\="_blank"><img src\="/assets/images/blog/2017-03-04-favicons/es_favicons.jpg" alt\="es_favicons"></a></div><p dir\="auto">Aqui está um pequeno vídeo de demonstração\:</p><iframe width\="560" height\="315" src\="https\://www.youtube.com/embed/le9c8dVtf8I" frameborder\="0" allowfullscreen></iframe> 
+blog-2017-03-05-hidden-title = Esconda seus jogos.
+blog-2017-03-05-hidden-author = <div><a class\="tags__link" href\="https\://github.com/rockaddicted">by rockaddicted </a> <a href\="https\://github.com/rockaddicted"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/rockaddicted"><i class\="fa fa-gitlab"> </i></a></div>
+blog-2017-03-05-hidden-date = 5 Mar 2017
+blog-2017-03-05-hidden-image = images/blog/2017-03-05-hidden/title-showhidden.jpg 
+blog-2017-03-05-hidden-content = <p dir\="auto">Oi, hoje vamos ver uma outra melhoria sobre um recurso introduzido na versão 4.0.0\: a capacidade <strong> para ocultar arquivos </strong> no EmulationStation.</p><p dir\="auto">"Arquivos ocultos" é um recurso legal que permite esconder arquivos específicos, como bios etc ... Mas, de momento, uma vez que o jogo oculto, você não tem como exibi-lo em EmulationStation. Você tem que editar manualmente o arquivo gamelist.xml, para reexibir o arquivo.</p><p dir\="auto">Então, decidimos <strong> adicionar uma opção para exibir esses arquivos ocultos </strong>. Uma vez ativada esta opção, os jogos ocultos são exibidos precedidos por este ícone\:  </p><img src\="/assets/images/blog/2017-03-05-hidden/eye_closed.jpg" alt\="eye_closed"><p dir\="auto">Você pode ver aqui é uma prévia deste recurso\:</p><p dir\="auto"></p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-03-05-hidden/es_showhidden.jpg" target\="_blank"><img src\="/assets/images/blog/2017-03-05-hidden/es_showhidden.jpg" alt\="es_showhidden"></a></div><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-03-05-hidden/es_showhidden_2.jpg" target\="_blank"><img src\="/assets/images/blog/2017-03-05-hidden/es_showhidden_2.jpg" alt\="es_showhidden_2"></a></div><p dir\="auto">Aqui está um pequeno vídeo de demonstração\:</p><iframe width\="560" height\="315" src\="https\://www.youtube.com/embed/I9v-4OsDUZQ" frameborder\="0" allowfullscreen></iframe>
+blog-2017-03-06-manager2-title = Saiu Recalbox Web Manager 2.0\!\!
+blog-2017-03-06-manager2-author = <div><a class\="tags__link" href\="https\://github.com/rockaddicted">by rockaddicted </a> <a href\="https\://github.com/rockaddicted"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/rockaddicted"><i class\="fa fa-gitlab"> </i></a></div>
+blog-2017-03-06-manager2-date = 6 Mar 2017
+blog-2017-03-06-manager2-image = images/blog/2017-03-06-manager2/Webmanager2.jpg 
+blog-2017-03-06-manager2-content = <p dir\="auto">Olá, hoje vamos apresentar-lhe um trabalho impressionante feito por um membro da comunidade.</p><p dir\="auto">Eu não sei se todos sabem disso, mas a versão atual do recalbox já integra uma <strong>interface web</strong>, que permite gerenciar, configurar seu recalbox. </p><p dir \= "auto" > Mas, há alguns meses, <strong><a href\="https\://github.com/DjLeChuck" target\="_blank">DjLeChuck</a></strong>, achou que o atual "manager" não foi completa o suficiente decidiu desenvolver um novo.</p><p dir\="auto"> Esta nova interface web oferece mais opções, a capacidade de gerenciar as informações do seu jogo, as capturas de tela, a atividade do EmulationStation e muito mais\! DjLeChuck fez um trabalho incrível, e estamos orgulhosos de apresentá-lo para você com esta versão 4.1.0.</p><p dir\="auto">Se você quiser ajudar no desenvolvimento desta nova ferramenta, você pode <a href\="https\://github.com/DjLeChuck/recalbox-manager" target\="_blank">github repository</a> ajudar com <a href\="https\://poeditor.com/projects/view?id\=93183" target\="_blank">a tradução</a>.</p><p dir\="auto"></p><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-03-06-manager2/es_manager_1.jpg" target\="_blank"><img src\="/assets/images/blog/2017-03-06-manager2/es_manager_1.jpg" alt\="es_manager_1"></a></div><div class\="image-container"><a class\="no-attachment-icon" href\="/assets/images/blog/2017-03-06-manager2/es_manager_2.jpg" target\="_blank"><img src\="/assets/images/blog/2017-03-06-manager2/es_manager_2.jpg" alt\="es_manager_2"></a></div><p>Você ainda pode usar a primeira versão do gerenciador por configurando em recalbox.conf\:<br/><p style\="color\:gray">\#\# Recalbox Manager (http manager)<br/>system.manager.enabled\=1<br/>\#\# 1 ou 2, dependendo da versão do "manager" deseja<br/>system.manager.version\=1<br/></p><p dir\="auto">Aqui está um pequeno vídeo de demonstração\:</p><iframe width\="560" height\="315" src\="https\://www.youtube.com/embed/l1sxi1w1mVY" frameborder\="0" allowfullscreen></iframe> 
+blog-2017-04-16-hfs3-title = Recalbox estará presente na 3ª edição do HFS Summer
+blog-2017-04-16-hfs3-author = <div><a class\="tags__link" href\="https\://github.com/reivaax">by reivaax </a> <a href\="https\://github.com/reivaax"><i class\="fa fa-github"> </i></a> <a href\="https\://gitlab.com/reivaax"><i class\="fa fa-gitlab"> </i></a></div>
+blog-2017-04-16-hfs3-date = 6 Abr 2017
+blog-2017-04-16-hfs3-image = images/blog/2017-04-16-hfs3/title.jpg
+blog-2017-04-16-hfs3-content = <p dir\="auto">De 5 a 7 de maio, no Centro de Congressos de Vierzon</p><p dir\="auto">Depois de participar na edição de 2016, renovamos este ano, a nossa presença no HFS Summer..</p><p dir\="auto">A equipe HFSplay nos deu o prazer de acolher-nos novamente para o seu evento anual user-friendly.</p><p dir\="auto">O programa inclui mais de 40 galerias em Freeplay, as competições internacionais em várias chave licenciamento do arcade. salão de 550m2 dedicado a rétrogamming. Vários estandes e conferências. <strong>Um posto e uma conferência organizada pela sua equipe Recalbox</strong>. Este ano, não só representam a retrogamming no raspberry com a participação de nossos amigos em Lakka, mas também a participação de retroarch.</p><p dir\="auto">Tal como acontece com a edição anterior, ele '' s acima de tudo, uma oportunidade para conhecer este evento amigável e aberta ao público. Deixando nossas telas para compartilhar um bom tempo juntos. A associação HFS jogo sabe organizar eventos de convívio familiar no espírito aberto que temos afeição. Esta será a oportunidade para trocar com vários desenvolvedores da distribuição ou simplesmente nos permitem conhecer e partilhar a bom tempo juntos. Vamos, naturalmente, com algumas telas, recalbox obviamente, um gamepad bonita coleção, ou a 2 bartop, painel de arcade, o luar ... em suma um intervalo que recalbox oferta.</p><p dir\="auto">Então, se você também quer se encontrar com a gente para compartilhar uma cerveja (ou refrigerante), ele não terá que esperar muito tempo. Este ano, é possível tomar um lugar para um dia (15 euros), ou passar 3 dias (30 €) .Se você não deseja atuar como proxy para as suas obrigações cívicas, você pode escolher o seu dia de chegada. Saiba que para quem tem filhos, você pode trazê-los com você. Ele é gratuito para crianças menores de 12 anos. Para as crianças maiores que sejam, a associação vai pedir uma contribuição para participar nos custos incorridos para a realização deste organisation.Alors ao invés de você fazer longas explicações, nós convidamos você a encontrar todos os detalhes sobre o site HFS Summer\: <a href\="https\://summer.hfsplay.fr" rel\="nofollow noreferrer" target\="_blank">https\://summer.hfsplay.fr</a></p><p dir\="auto">Esperamos ter a oportunidade de conhecer muitos de vocês para compartilhar um bom tempo juntos.</p>
