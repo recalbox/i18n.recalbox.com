@@ -93,7 +93,7 @@ video_psx_desc = En temps réel - Playsation et Sega 32x \!
 # Open source
 opensourcetitle1 = Des dizaines de logiciels open-source...
 opensourcetitle2 = ...réunis au sein d'un même OS.
-opensourcedesc1 = RecalboxOS est basé sur le systeme GNU/Linux. Il intègre des centaines de logiciels open-source, du plus petit utilitaire, jusqu' à ses émulateurs et son frontend EmulationStation.
+opensourcedesc1 = RecalboxOS est basé sur le système GNU/Linux. Il intègre des centaines de logiciels open-source, du plus petit utilitaire, jusqu' à ses émulateurs et son frontend EmulationStation.
 opensourcedesc2 = Retrouvez les dizaines d'émulateurs de retroarch/libretro, le fameux Media Player Kodi, et le frontend EmulationStation customisé \!
 # Hacks homebrews
 hackstittle2 = Découvrez des jeux jamais sortis sur console
